@@ -22,10 +22,10 @@ domain: sailing.tinar.asia
 title: Sailing S/V Tinarasia
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  coming soon
+  exploring the seas, one nautical mile at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  tinarasia
+instagram_username:  tinarasia_sailing
 
 # Build settings
 theme: minima
