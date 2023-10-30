@@ -3,7 +3,7 @@ layout: post
 title: "winter break for a few months"
 date: 2023-10-14 16:00:00 +0200
 categories: travels
-post.location: "Puerto de Almerimar, Spain"
+location: "Puerto de Almerimar, Spain"
 ---
 
 # *invernaje*, as they say in spanish, 
