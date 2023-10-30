@@ -23,6 +23,7 @@
     }
 
     &::after {
+	text-align: center;
         display: block;
         position: absolute;
         top: $banner-height;
