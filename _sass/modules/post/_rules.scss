@@ -58,25 +58,24 @@
 
     .post-date-top {
         display: block;
-        border-top: 1px solid $border-color;
+        border-top: 1px solid #979797;
         text-align: center;
-        color: $legal-text-color;
-        margin: 15px 0 25px;
+        color: #818181;
+        margin: 15px 0 0;
         font-variant: small-caps;
         letter-spacing: 0.06em;
-
-        // Fix typekit line-height with excess top padding
-        padding: 23px 0 13px;
+        padding: 13px 0 0;
     }
 
     .post-date-bottom {
         display: block;
-        border-bottom: 1px solid $border-color;
+        border-bottom: 1px solid #979797;
         text-align: center;
-        color: $legal-text-color;
-        margin: 15px 0 25px;
+        color: #818181;
+        margin: 10px 0 25px;
         font-variant: small-caps;
         letter-spacing: 0.06em;
+        padding: 0 0 6px;
     }
 
     @include typekit-fallback {
