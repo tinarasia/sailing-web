@@ -6,11 +6,12 @@ categories: travels
 post.location: "Puerto de Almerimar, Spain"
 ---
 
-# *invernaje*, as they say in spanish,
+# *invernaje*, as they say in spanish, 
 is the process of getting everything ship-shape and then leaving the boat
-for a few months until the usual end-of-year crazyness is over, the autumn
-storms are gone, and the crew has been shanghaied by their elders to fix the
-wifi at their ancestral homes during the dreaded end-of-year-festivities.
+for a few months until the usual end-of-year crazyness is over, the november
+storms have come and gone, and the crew has been released after being shanghaied by
+their parents to fix the wifi at their ancestral homes during the dreaded
+end-of-year-festivities.
 
 and so we say goodbye to our new-to-us boat for the next months. which makes
 no sense, because it's way nicer and warmer here than back home, especially
