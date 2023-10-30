@@ -16,7 +16,7 @@ and so we say goodbye to our new-to-us boat for the next months. which makes
 no sense, because it's way nicer and warmer here than back home, especially
 in december. but i digress.
 
-![neatly coiled rope, attached to a cleat, on a wooden pier](/img/cleat_and_coil.jpg =250x)
+![neatly coiled rope, attached to a cleat, on a wooden pier](/img/cleat_and_coil.jpg){: width="250" }
 
 anyhow: stay tuned, we'll continue the journey sometime in
 march/april with a few weeks of DIY boat fixer-uppery (might contain
