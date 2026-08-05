@@ -35,3 +35,7 @@ Past temporary members of the crew:
 * Hendrik - <img src="/img/flags/es.png">
 * Jofijaan - <img src="/img/flags/es.png">
 * Björn - <img src="/img/flags/es.png">
+* Martin - <img src="/img/flags/es.png">
+* Bernhard - <img src="/img/flags/es.png">
+* Anatol - <img src="/img/flags/es.png">
+* Riot - <img src="/img/flags/es.png">
