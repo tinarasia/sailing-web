@@ -15,6 +15,6 @@ permalink: /2025/04/22/almerimar-to-los-escullos/
 - Distance: 39.9 nm
 - Average speed: 2.5 kn
 
-Left Almerimar and made for Los Escullos, a long day that ran past sunset covering 40 nautical miles at an average of 2.5 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Weighed anchor at Almerimar, bound for Los Escullos — a long day that ran past sunset covering 40 nautical miles at an average of 2.5 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Almerimar to Los Escullos](/img/tracks/trip01-almerimar-to-los-escullos.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

@@ -15,6 +15,6 @@ permalink: /2025/05/12/moraira-to-s-espalmador/
 - Distance: 64.2 nm
 - Average speed: 3.6 kn
 
-Left Moraira and made for S'Espalmador, a long day that ran past sunset covering 64 nautical miles at an average of 3.6 knots. The wind built from 3 to 11 kn, and it backed from NNW to WSW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Slipped the lines at Moraira and pointed the bow toward S'Espalmador, a long day that ran past sunset covering 64 nautical miles at an average of 3.6 knots. The wind built from 3 to 11 kn, and it backed from NNW to WSW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Moraira to S'Espalmador](/img/tracks/trip12-moraira-to-s-espalmador.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

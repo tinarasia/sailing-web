@@ -15,6 +15,6 @@ permalink: /2025/05/29/alcudia-to-port-de-pollenca/
 - Distance: 15.0 nm
 - Average speed: 2.6 kn
 
-Left Alcúdia and made for Port de Pollença, a modest half-day's sail covering 15 nautical miles at an average of 2.6 knots. It veered from N to ESE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Departed Alcúdia for Port de Pollença, a modest half-day's sail covering 15 nautical miles at 2.6 knots average. It veered from N to ESE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Alcúdia to Port de Pollença](/img/tracks/trip22-alcudia-to-port-de-pollenca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

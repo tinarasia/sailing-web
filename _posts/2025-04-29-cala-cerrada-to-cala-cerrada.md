@@ -15,6 +15,6 @@ permalink: /2025/04/29/cala-cerrada-to-cala-cerrada/
 - Distance: 1.5 nm
 - Average speed: 1.5 kn
 
-Left Cala Cerrada and made for Cala Cerrada, a short hop covering 1 nautical miles at an average of 1.5 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Weighed anchor at Cala Cerrada, bound for Cala Cerrada — a short hop covering 1 nautical miles at an average of 1.5 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Cala Cerrada to Cala Cerrada](/img/tracks/trip06-cala-cerrada-to-cala-cerrada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

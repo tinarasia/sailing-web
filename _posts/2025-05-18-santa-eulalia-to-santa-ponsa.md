@@ -15,6 +15,6 @@ permalink: /2025/05/18/santa-eulalia-to-santa-ponsa/
 - Distance: 56.0 nm
 - Average speed: 3.6 kn
 
-Left Santa Eulalia and made for Santa Ponsa, a long day that ran past sunset covering 56 nautical miles at an average of 3.6 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Departed Santa Eulalia for Santa Ponsa, a long day that ran past sunset covering 56 nautical miles at 3.6 knots average. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Santa Eulalia to Santa Ponsa](/img/tracks/trip15-santa-eulalia-to-santa-ponsa.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

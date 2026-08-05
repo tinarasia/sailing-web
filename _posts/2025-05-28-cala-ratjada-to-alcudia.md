@@ -15,6 +15,6 @@ permalink: /2025/05/28/cala-ratjada-to-alcudia/
 - Distance: 21.1 nm
 - Average speed: 3.1 kn
 
-Left Cala Ratjada and made for Alcúdia, a modest half-day's sail covering 21 nautical miles at an average of 3.1 knots. It veered from NNE to E. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Departed Cala Ratjada for Alcúdia, a modest half-day's sail covering 21 nautical miles at 3.1 knots average. It veered from NNE to E. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Cala Ratjada to Alcúdia](/img/tracks/trip21-cala-ratjada-to-alcudia.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

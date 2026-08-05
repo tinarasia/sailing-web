@@ -15,6 +15,6 @@ permalink: /2025/05/09/villa-joyosa-to-moraira/
 - Distance: 21.2 nm
 - Average speed: 3.0 kn
 
-Left Villa Joyosa and made for Moraira, a modest half-day's sail covering 21 nautical miles at an average of 3.0 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Weighed anchor at Villa Joyosa, bound for Moraira — a modest half-day's sail covering 21 nautical miles at an average of 3.0 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Villa Joyosa to Moraira](/img/tracks/trip11-villa-joyosa-to-moraira.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

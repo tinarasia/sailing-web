@@ -15,6 +15,6 @@ permalink: /2025/05/21/palma-de-mallorca-to-puerto-cabrera/
 - Distance: 34.7 nm
 - Average speed: 3.4 kn
 
-Left Palma de Mallorca and made for Puerto Cabrera, a full day underway covering 35 nautical miles at an average of 3.4 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Set a course from Palma de Mallorca to Puerto Cabrera: a full day underway, 35 nautical miles at an average of 3.4 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Palma de Mallorca to Puerto Cabrera](/img/tracks/trip17-palma-de-mallorca-to-puerto-cabrera.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
