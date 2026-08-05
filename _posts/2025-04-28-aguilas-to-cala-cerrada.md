@@ -15,6 +15,6 @@ permalink: /2025/04/28/aguilas-to-cala-cerrada/
 - Distance: 39.2 nm
 - Average speed: 3.6 kn
 
-Departed Águilas for Cala Cerrada, a full day underway covering 39 nautical miles at 3.6 knots average. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Departed Águilas for Cala Cerrada, a full day underway covering 39 nautical miles at 3.6 knots average. Seas built from 0.5m to 0.8m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Águilas to Cala Cerrada](/img/tracks/trip05-aguilas-to-cala-cerrada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
