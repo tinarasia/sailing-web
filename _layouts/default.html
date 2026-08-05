@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
     {% include head.html %}
-    <body class="is-offset {% unless site.typekit_kit_id %}wf-inactive{% endunless %}">
+    <body class="{% unless site.typekit_kit_id %}wf-inactive{% endunless %}">
         {% include header.html %}
+        {% if page.url == '/' %}
+            {% include hero.html %}
+        {% endif %}
         <section role="main">
             {{ content }}
         </section>
         {% include footer.html %}
-        <script type="text/javascript" src="{{ site.baseurl }}/js/galileo.js"></script>
     </body>
 </html>

@@ -1,5 +1,17 @@
 @import "modules/post/variables";
 @mixin galileo-post {
+    .post {
+        background: $parchment-alt;
+        border: 1px solid $border-color;
+        border-radius: 4px;
+        padding: 28px 24px 22px;
+        margin-bottom: 30px;
+
+        @include min-breakpoint($image-splitting-breakpoint) {
+            padding: 36px 44px 30px;
+        }
+    }
+
     .post::after {
         @include retina-background-image($img-separator);
         background-repeat: no-repeat;
@@ -58,9 +70,9 @@
 
     .post-date-top {
         display: block;
-        border-top: 1px solid #979797;
+        border-top: 1px solid $border-color;
         text-align: center;
-        color: #818181;
+        color: $legal-text-color;
         margin: 15px 0 0;
         font-variant: small-caps;
         letter-spacing: 0.06em;
@@ -69,9 +81,9 @@
 
     .post-date-bottom {
         display: block;
-        border-bottom: 1px solid #979797;
+        border-bottom: 1px solid $border-color;
         text-align: center;
-        color: #818181;
+        color: $legal-text-color;
         margin: 10px 0 25px;
         font-variant: small-caps;
         letter-spacing: 0.06em;

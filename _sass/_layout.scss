@@ -1,47 +1,123 @@
-#banner {
-    @include retina-background-image($img-banner);
-    background-color: #8e8387;
+// ----------------------------------------------------------------------
+// Site header / navigation
+// ----------------------------------------------------------------------
+.site-header {
+    background: $navy;
+    border-bottom: 3px solid $gold;
+    text-align: center;
+    padding: 22px 0 0;
+}
+
+.site-header--minimal .site-header-wordmark {
+    // The hero below already carries the wordmark; avoid repeating it
+    display: none;
+}
+
+.site-header-wordmark {
+    display: inline-block;
     outline: none;
-    display: block;
-    width: $banner-width;
-    height: $banner-height;
-    margin: 0 auto 35px;
-    position: relative; /* To ensure the bottom border is positioned correctly */
 
     h1 {
-        // Font is included from Google Fonts automatically unless a custom banner is used
-        // See _config.yml for details
         font-family: $banner-font-family;
-        font-size: 24px;
-        font-weight: 400;
-        text-align: center;
-        letter-spacing: 0.03em;
-        color: #fefefe;
-        position: absolute;
-        bottom: 20px;
-        width: 100%;
+        font-weight: 600;
+        font-size: 26px;
+        letter-spacing: 0.06em;
+        color: $parchment;
+        margin: 0;
+
+        @include min-breakpoint($image-splitting-breakpoint) {
+            font-size: 32px;
+        }
     }
 
-    &::after {
-	text-align: center;
+    &:hover h1 { color: $gold-light; }
+}
+
+.site-nav {
+    margin: 14px 0 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    li {
+        margin: 0 2px;
+    }
+
+    a {
         display: block;
-        position: absolute;
-        top: $banner-height;
-        left: $banner-border-offset;
-        content: "";
-        background: #443E40;
-        height: $banner-border-width;
-        width: $banner-width - ($banner-border-offset* 2);
-    }
+        padding: 12px 14px;
+        color: rgba($parchment, 0.8);
+        font-family: $caption-font-family;
+        font-size: 14px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        border-top: 2px solid transparent;
 
-    @include min-breakpoint($image-splitting-breakpoint) {
-        margin-bottom: $banner-margin;
+        &:hover,
+        &.is-active {
+            color: $gold-light;
+            border-top-color: $gold;
+        }
     }
 }
 
-#footer {
-    margin-top: 50px;
+// ----------------------------------------------------------------------
+// Hero (home page only)
+// ----------------------------------------------------------------------
+.hero {
+    background: linear-gradient(180deg, $navy 0%, $navy-deep 100%);
     text-align: center;
+    padding: 40px 20px 55px;
+    color: $parchment;
+}
+
+.hero-emblem {
+    width: 90px;
+    height: auto;
+    margin: 0 auto 10px;
+    filter: brightness(0) invert(1);
+    opacity: 0.92;
+}
+
+.hero-title {
+    font-family: $title-font-family;
+    font-weight: 700;
+    font-size: 34px;
+    letter-spacing: 0.02em;
+    margin: 0 0 12px;
+
+    @include min-breakpoint($image-splitting-breakpoint) {
+        font-size: 44px;
+    }
+}
+
+.hero-rule {
+    width: 70px;
+    margin: 0 auto 16px;
+    border: 0;
+    border-top: 2px solid $gold;
+}
+
+.hero-tagline {
+    font-family: $caption-font-family;
+    font-style: italic;
+    font-size: 17px;
+    letter-spacing: 0.03em;
+    color: $gold-light;
+    margin: 0;
+}
+
+// ----------------------------------------------------------------------
+// Footer
+// ----------------------------------------------------------------------
+#footer {
+    margin-top: 60px;
+    padding: 45px 20px 40px;
+    text-align: center;
+    background: $navy-deep;
+    color: rgba($parchment, 0.75);
 
     &::after {
         @include retina-background-image($img-dude);
@@ -49,16 +125,16 @@
         content: "";
         width: 65px;
         height: 158px;
-        margin: 20px auto 50px;
+        margin: 0 auto 20px;
+        filter: brightness(0) invert(1);
+        opacity: 0.85;
     }
 
     a {
-        // Overwrite default link color
-        color: #222;
+        color: $parchment;
 
         &:hover {
-            // ... but allow the hover color to work as normal
-            color: $hover-color;
+            color: $gold-light;
         }
     }
 
@@ -77,9 +153,32 @@
     }
 }
 
+.footer-nav {
+    margin: 0 0 22px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    li {
+        margin: 0 10px;
+    }
+
+    a {
+        font-family: $caption-font-family;
+        font-size: 13px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: rgba($parchment, 0.7);
+
+        &:hover { color: $gold-light; }
+    }
+}
+
 section[role="main"] {
     width: 90%;
-    margin: 0 auto;
+    margin: 40px auto 0;
 
     @include min-breakpoint($desktop-breakpoint) {
         width: $layout-width;
