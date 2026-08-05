@@ -3,7 +3,7 @@ layout: default
 ---
 <h2 class="category-title">{{ page.title }}</h2>
 
-{% assign posts = site.categories[page.category_filter] %}
+{% assign posts = site.categories[page.category_filter] | reverse %}
 {% for post in posts %}
   {% include post.html post=post content=post.content %}
 {% endfor %}
