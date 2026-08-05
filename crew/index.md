@@ -30,12 +30,12 @@ Permanent crew:
 
 Past temporary members of the crew:
 
-* [Bergie](https://lille-oe.de/crew/) - <img src="/img/flags/gi.png">-<img src="/img/flags/es.png">
+* [Bergie](https://lille-oe.de/crew/) - <img src="/img/flags/gi.png">-<img src="/img/flags/es.png"> ( <img src="/img/flags/es/andalucia-22x14.png"> )
 * [Suski](https://lille-oe.de/crew/) - <img src="/img/flags/gi.png">-<img src="/img/flags/es.png">
-* Hendrik - <img src="/img/flags/es.png">
-* Jofijaan - <img src="/img/flags/es.png">
-* Björn - <img src="/img/flags/es.png">
-* Martin - <img src="/img/flags/es.png">
-* Bernhard - <img src="/img/flags/es.png">
-* Anatol - <img src="/img/flags/es.png">
-* Riot - <img src="/img/flags/es.png">
+* Hendrik - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )
+* Jofijaan - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )
+* Björn - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )
+* Martin - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/catalonia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
+* Bernhard - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/catalonia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
+* Anatol - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )
+* Riot - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )
