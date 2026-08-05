@@ -17,4 +17,4 @@ permalink: /2025/05/18/santa-eulalia-to-santa-ponsa/
 
 Left Santa Eulalia and made for Santa Ponsa, a long day that ran past sunset covering 56 nautical miles at an average of 3.6 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Santa Eulalia to Santa Ponsa](/img/tracks/trip15-santa-eulalia-to-santa-ponsa.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Santa Eulalia to Santa Ponsa](/img/tracks/trip15-santa-eulalia-to-santa-ponsa.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

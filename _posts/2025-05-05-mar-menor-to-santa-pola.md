@@ -17,4 +17,4 @@ permalink: /2025/05/05/mar-menor-to-santa-pola/
 
 Left Mar Menor and made for Santa Pola, a modest half-day's sail covering 32 nautical miles at an average of 4.3 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Mar Menor to Santa Pola](/img/tracks/trip09-mar-menor-to-santa-pola.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Mar Menor to Santa Pola](/img/tracks/trip09-mar-menor-to-santa-pola.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

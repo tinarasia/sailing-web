@@ -17,4 +17,4 @@ permalink: /2025/06/05/cala-castell-to-port-de-soller/
 
 Left Cala Castell and made for Port de Sóller, a full day underway covering 20 nautical miles at an average of 2.0 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Cala Castell to Port de Sóller](/img/tracks/trip24-cala-castell-to-port-de-soller.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Cala Castell to Port de Sóller](/img/tracks/trip24-cala-castell-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

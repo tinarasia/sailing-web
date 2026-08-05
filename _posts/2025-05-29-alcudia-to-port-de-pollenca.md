@@ -17,4 +17,4 @@ permalink: /2025/05/29/alcudia-to-port-de-pollenca/
 
 Left Alcúdia and made for Port de Pollença, a modest half-day's sail covering 15 nautical miles at an average of 2.6 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Alcúdia to Port de Pollença](/img/tracks/trip22-alcudia-to-port-de-pollenca.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Alcúdia to Port de Pollença](/img/tracks/trip22-alcudia-to-port-de-pollenca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

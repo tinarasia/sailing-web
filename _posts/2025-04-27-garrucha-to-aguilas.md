@@ -17,4 +17,4 @@ permalink: /2025/04/27/garrucha-to-aguilas/
 
 Left Garrucha and made for Águilas, a full day underway covering 22 nautical miles at an average of 2.6 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Garrucha to Águilas](/img/tracks/trip04-garrucha-to-aguilas.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Garrucha to Águilas](/img/tracks/trip04-garrucha-to-aguilas.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

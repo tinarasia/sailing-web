@@ -17,4 +17,4 @@ permalink: /2025/05/23/puerto-cabrera-to-cala-santanyi-cala-llombards/
 
 Left Puerto Cabrera and made for Cala Santanyí / Cala Llombards, a modest half-day's sail covering 17 nautical miles at an average of 2.5 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Puerto Cabrera to Cala Santanyí / Cala Llombards](/img/tracks/trip18-puerto-cabrera-to-cala-santanyi-cala-llombards.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Puerto Cabrera to Cala Santanyí / Cala Llombards](/img/tracks/trip18-puerto-cabrera-to-cala-santanyi-cala-llombards.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

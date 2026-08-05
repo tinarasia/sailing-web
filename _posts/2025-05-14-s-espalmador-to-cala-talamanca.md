@@ -17,4 +17,4 @@ permalink: /2025/05/14/s-espalmador-to-cala-talamanca/
 
 Left S'Espalmador and made for Cala Talamanca, a modest half-day's sail covering 12 nautical miles at an average of 2.2 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from S'Espalmador to Cala Talamanca](/img/tracks/trip13-s-espalmador-to-cala-talamanca.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from S'Espalmador to Cala Talamanca](/img/tracks/trip13-s-espalmador-to-cala-talamanca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

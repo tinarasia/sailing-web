@@ -17,4 +17,4 @@ permalink: /2025/06/09/sant-carles-de-la-rapita-to-sant-carles-marina/
 
 Left Sant Carles de La Ràpita and made for Sant Carles Marina, a short hop covering 2 nautical miles at an average of 2.2 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Sant Carles de La Ràpita to Sant Carles Marina](/img/tracks/trip26-sant-carles-de-la-rapita-to-sant-carles-marina.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Sant Carles de La Ràpita to Sant Carles Marina](/img/tracks/trip26-sant-carles-de-la-rapita-to-sant-carles-marina.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

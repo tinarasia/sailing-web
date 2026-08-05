@@ -17,4 +17,4 @@ permalink: /2025/04/28/aguilas-to-cala-cerrada/
 
 Left Águilas and made for Cala Cerrada, a full day underway covering 39 nautical miles at an average of 3.6 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Águilas to Cala Cerrada](/img/tracks/trip05-aguilas-to-cala-cerrada.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Águilas to Cala Cerrada](/img/tracks/trip05-aguilas-to-cala-cerrada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

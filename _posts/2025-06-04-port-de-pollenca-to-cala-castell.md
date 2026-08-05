@@ -17,4 +17,4 @@ permalink: /2025/06/04/port-de-pollenca-to-cala-castell/
 
 Left Port de Pollença and made for Cala Castell, a modest half-day's sail covering 18 nautical miles at an average of 2.5 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Port de Pollença to Cala Castell](/img/tracks/trip23-port-de-pollenca-to-cala-castell.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Port de Pollença to Cala Castell](/img/tracks/trip23-port-de-pollenca-to-cala-castell.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

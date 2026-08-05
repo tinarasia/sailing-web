@@ -17,4 +17,4 @@ permalink: /2025/06/09/port-de-soller-to-sant-carles-de-la-rapita/
 
 Left Port de Sóller and made for Sant Carles de La Ràpita, an overnight passage of roughly 1.7 days covering 117 nautical miles at an average of 2.9 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Port de Sóller to Sant Carles de La Ràpita](/img/tracks/trip25-port-de-soller-to-sant-carles-de-la-rapita.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Port de Sóller to Sant Carles de La Ràpita](/img/tracks/trip25-port-de-soller-to-sant-carles-de-la-rapita.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

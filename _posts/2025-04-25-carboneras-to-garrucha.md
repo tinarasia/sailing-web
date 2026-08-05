@@ -17,4 +17,4 @@ permalink: /2025/04/25/carboneras-to-garrucha/
 
 Left Carboneras and made for Garrucha, a modest half-day's sail covering 14 nautical miles at an average of 2.8 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Carboneras to Garrucha](/img/tracks/trip03-carboneras-to-garrucha.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Carboneras to Garrucha](/img/tracks/trip03-carboneras-to-garrucha.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

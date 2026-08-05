@@ -17,4 +17,4 @@ permalink: /2025/05/27/portocristo-to-cala-ratjada/
 
 Left Portocristo and made for Cala Ratjada, a modest half-day's sail covering 14 nautical miles at an average of 2.4 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
 
-![Track from Portocristo to Cala Ratjada](/img/tracks/trip20-portocristo-to-cala-ratjada.png){: width="500" style="display:block; margin-left:auto; margin-right:auto"}
+![Track from Portocristo to Cala Ratjada](/img/tracks/trip20-portocristo-to-cala-ratjada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
