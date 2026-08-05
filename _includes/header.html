@@ -5,7 +5,22 @@
 
     <nav>
         <ul class="site-nav">
-            <li><a href="{{ site.baseurl }}/" {% if page.url == '/' %}class="is-active"{% endif %}>&#x2693; Voyages</a></li>
+            <li class="site-nav-dropdown">
+                <details>
+                    <summary {% if page.layout == 'category' or page.url == '/' %}class="is-active"{% endif %}>&#x2693; Voyages</summary>
+                    <ul class="site-nav-dropdown-menu">
+                        <li><a href="{{ site.baseurl }}/" {% if page.url == '/' %}class="is-active"{% endif %}>All voyages</a></li>
+                        {% assign category_names_str = "" %}
+                        {% for category in site.categories %}
+                            {% assign category_names_str = category_names_str | append: category[0] | append: "||" %}
+                        {% endfor %}
+                        {% assign category_names = category_names_str | split: "||" | sort | reverse %}
+                        {% for name in category_names %}
+                            <li><a href="{{ site.baseurl }}/voyages/{{ name | slugify }}/" {% if page.category_filter == name %}class="is-active"{% endif %}>{{ name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </details>
+            </li>
             <li><a href="{{ site.baseurl }}/boat/" {% if page.url == '/boat/' %}class="is-active"{% endif %}>&#x26F5; The Boat</a></li>
             <li><a href="{{ site.baseurl }}/crew/" {% if page.url == '/crew/' %}class="is-active"{% endif %}>&#x2388; The Crew</a></li>
             <li><a href="{{ site.baseurl }}/where/" {% if page.url == '/where/' %}class="is-active"{% endif %}>&#x1F50D; Track Us</a></li>

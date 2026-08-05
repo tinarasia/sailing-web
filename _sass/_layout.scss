@@ -63,6 +63,85 @@
     }
 }
 
+.site-nav-dropdown {
+    position: relative;
+
+    details {
+        display: inline-block;
+    }
+
+    summary {
+        display: block;
+        padding: 12px 14px;
+        color: rgba($parchment, 0.8);
+        font-family: $caption-font-family;
+        font-size: 14px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        border-top: 2px solid transparent;
+        cursor: pointer;
+        list-style: none;
+
+        &::-webkit-details-marker {
+            display: none;
+        }
+
+        &::after {
+            content: "\25BE"; // small down-caret
+            display: inline-block;
+            margin-left: 5px;
+            font-size: 11px;
+            position: relative;
+            top: -1px;
+        }
+
+        &:hover,
+        &.is-active {
+            color: $gold-light;
+            border-top-color: $gold;
+        }
+    }
+
+    details[open] summary::after {
+        content: "\25B4"; // caret flips when open
+    }
+
+    .site-nav-dropdown-menu {
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 4px 0 0;
+        padding: 6px 0;
+        list-style: none;
+        background: $navy-deep;
+        border: 1px solid $gold;
+        border-radius: 3px;
+        min-width: 170px;
+        z-index: 10;
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+
+        li {
+            margin: 0;
+        }
+
+        a {
+            display: block;
+            padding: 9px 16px;
+            border-top: 0;
+            text-align: left;
+            white-space: nowrap;
+            font-size: 13px;
+
+            &:hover,
+            &.is-active {
+                background: rgba($gold, 0.12);
+                border-top: 0;
+            }
+        }
+    }
+}
+
 // ----------------------------------------------------------------------
 // Hero (home page only)
 // ----------------------------------------------------------------------
@@ -107,6 +186,26 @@
     letter-spacing: 0.03em;
     color: $gold-light;
     margin: 0;
+}
+
+// ----------------------------------------------------------------------
+// Category archive pages
+// ----------------------------------------------------------------------
+.category-title {
+    font-family: $title-font-family;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    margin: 0 0 30px;
+
+    &::after {
+        content: "";
+        display: block;
+        width: 60px;
+        margin: 14px auto 0;
+        border-bottom: 2px solid $gold;
+    }
 }
 
 // ----------------------------------------------------------------------
