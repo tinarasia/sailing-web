@@ -15,6 +15,6 @@ permalink: /2025/06/04/port-de-pollenca-to-cala-castell/
 - Distance: 17.7 nm
 - Average speed: 2.5 kn
 
-Cast off from Port de Pollença bound for Cala Castell — a modest half-day's sail, 18 nautical miles at an average of 2.5 knots. It veered from NNW to ENE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Cast off from Port de Pollença bound for Cala Castell — a modest half-day's sail, 18 nautical miles at an average of 2.5 knots. Wind 1–5 kn from the NNE, gusting to 16 kn. It veered from NNW to ENE. Current up to 0.6 kn setting E. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Port de Pollença to Cala Castell](/img/tracks/trip23-port-de-pollenca-to-cala-castell.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

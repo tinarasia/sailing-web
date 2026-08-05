@@ -15,6 +15,6 @@ permalink: /2025/05/04/cartagena-to-mar-menor/
 - Distance: 29.6 nm
 - Average speed: 3.8 kn
 
-Slipped the lines at Cartagena and pointed the bow toward Mar Menor, a modest half-day's sail covering 30 nautical miles at an average of 3.8 knots. The wind built from 0 to 15 kn. Seas built from 0.8m to 1.3m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Slipped the lines at Cartagena and pointed the bow toward Mar Menor, a modest half-day's sail covering 30 nautical miles at an average of 3.8 knots. Wind 0–17 kn from the SSW, gusting to 34 kn. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Cartagena to Mar Menor](/img/tracks/trip08-cartagena-to-mar-menor.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

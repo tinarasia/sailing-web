@@ -15,6 +15,6 @@ permalink: /2026/05/06/cala-sant-vicenc-to-port-de-pollenca/
 - Distance: 20.8 nm
 - Average speed: 2.5 kn
 
-Left Cala Sant Vicenç and made for Port de Pollença, a full day underway covering 21 nautical miles at an average of 2.5 knots. It veered from NE to SSE, and about 1 mm of rain fell along the way. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Left Cala Sant Vicenç and made for Port de Pollença, a full day underway covering 21 nautical miles at an average of 2.5 knots. Wind 3–7 kn from the ESE, gusting to 17 kn. It veered from NE to SSE. About 1 mm of rain fell along the way. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Cala Sant Vicenç to Port de Pollença](/img/tracks/trip07-cala-sant-vicenc-to-port-de-pollenca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

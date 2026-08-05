@@ -15,6 +15,6 @@ permalink: /2026/05/04/port-de-soller-to-cala-sant-vicenc/
 - Distance: 20.8 nm
 - Average speed: 2.5 kn
 
-Departed Port de Sóller for Cala Sant Vicenç, a full day underway covering 21 nautical miles at 2.5 knots average. About 3 mm of rain fell along the way. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Departed Port de Sóller for Cala Sant Vicenç, a full day underway covering 21 nautical miles at 2.5 knots average. Wind 1–6 kn from the SW, gusting to 23 kn. About 3 mm of rain fell along the way. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Port de Sóller to Cala Sant Vicenç](/img/tracks/trip06-port-de-soller-to-cala-sant-vicenc.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

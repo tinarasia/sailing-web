@@ -15,6 +15,6 @@ permalink: /2026/04/24/sant-carles-marina-to-andraitx/
 - Distance: 119.8 nm
 - Average speed: 3.0 kn
 
-Departed Sant Carles Marina for Andraitx, an overnight passage of roughly 1.7 days covering 120 nautical miles at 3.0 knots average. The wind built from 4 to 10 kn, and it backed from S to E. Seas built from 0.1m to 1.3m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Departed Sant Carles Marina for Andraitx, an overnight passage of roughly 1.7 days covering 120 nautical miles at 3.0 knots average. Wind 3–19 kn from the ENE, gusting to 25 kn. It backed from S to E. Seas up to 1.8m. Current up to 0.5 kn setting SW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Sant Carles Marina to Andraitx](/img/tracks/trip01-sant-carles-marina-to-andraitx.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

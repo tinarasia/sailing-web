@@ -15,6 +15,6 @@ permalink: /2026/04/25/andraitx-to-port-de-soller/
 - Distance: 26.0 nm
 - Average speed: 2.9 kn
 
-Andraitx to Port de Sóller: a full day underway, 26 nautical miles at an average of 2.9 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Andraitx to Port de Sóller: a full day underway, 26 nautical miles at an average of 2.9 knots. Wind 3–8 kn from the NNW, gusting to 11 kn. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Andraitx to Port de Sóller](/img/tracks/trip02-andraitx-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

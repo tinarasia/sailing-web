@@ -15,6 +15,6 @@ permalink: /2026/05/10/port-de-pollenca-to-bonaire-mallorca/
 - Distance: 3.3 nm
 - Average speed: 2.9 kn
 
-Left Port de Pollença and made for Bonaire (Mallorca), a short hop covering 3 nautical miles at an average of 2.9 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Left Port de Pollença and made for Bonaire (Mallorca), a short hop covering 3 nautical miles at an average of 2.9 knots. Wind 10 kn from the W, gusting to 24 kn. Seas up to 0.6m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Port de Pollença to Bonaire (Mallorca)](/img/tracks/trip09-port-de-pollenca-to-bonaire-mallorca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

@@ -15,6 +15,6 @@ permalink: /2025/05/19/santa-ponsa-to-palma-de-mallorca/
 - Distance: 17.3 nm
 - Average speed: 2.6 kn
 
-Cast off from Santa Ponsa bound for Palma de Mallorca — a modest half-day's sail, 17 nautical miles at an average of 2.6 knots. It veered from ESE to SW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Cast off from Santa Ponsa bound for Palma de Mallorca — a modest half-day's sail, 17 nautical miles at an average of 2.6 knots. Wind 1–9 kn from the S, gusting to 27 kn. It veered from ESE to SW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Santa Ponsa to Palma de Mallorca](/img/tracks/trip16-santa-ponsa-to-palma-de-mallorca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

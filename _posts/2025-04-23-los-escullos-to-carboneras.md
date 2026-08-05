@@ -15,6 +15,6 @@ permalink: /2025/04/23/los-escullos-to-carboneras/
 - Distance: 28.8 nm
 - Average speed: 2.8 kn
 
-Departed Los Escullos for Carboneras, a full day underway covering 29 nautical miles at 2.8 knots average. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Departed Los Escullos for Carboneras, a full day underway covering 29 nautical miles at 2.8 knots average. Wind 6–9 kn from the ENE, gusting to 19 kn. Current up to 0.5 kn setting WSW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Los Escullos to Carboneras](/img/tracks/trip02-los-escullos-to-carboneras.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

@@ -15,6 +15,6 @@ permalink: /2025/06/05/cala-castell-to-port-de-soller/
 - Distance: 20.5 nm
 - Average speed: 2.0 kn
 
-Slipped the lines at Cala Castell and pointed the bow toward Port de Sóller, a full day underway covering 20 nautical miles at an average of 2.0 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Slipped the lines at Cala Castell and pointed the bow toward Port de Sóller, a full day underway covering 20 nautical miles at an average of 2.0 knots. Wind 1–3 kn from the NNE, gusting to 12 kn. Current up to 0.5 kn setting ENE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Cala Castell to Port de Sóller](/img/tracks/trip24-cala-castell-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

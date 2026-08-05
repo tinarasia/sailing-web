@@ -15,6 +15,6 @@ permalink: /2026/05/09/port-de-pollenca-to-port-de-pollenca/
 - Distance: 0.1 nm
 - Average speed: 2.9 kn
 
-Slipped the lines at Port de Pollença and pointed the bow toward Port de Pollença, a short hop covering 0 nautical miles at an average of 2.9 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Slipped the lines at Port de Pollença and pointed the bow toward Port de Pollença, a short hop covering 0 nautical miles at an average of 2.9 knots. Wind 9 kn from the NE, gusting to 21 kn. Seas up to 0.8m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Port de Pollença to Port de Pollença](/img/tracks/trip08-port-de-pollenca-to-port-de-pollenca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
