@@ -9,12 +9,12 @@ permalink: /2025/05/05/mar-menor-to-santa-pola/
 
 **Logbook**
 
-- Departure: Mar Menor, Monday, May 5, 2025 at 09:59 UTC
-- Arrival: Santa Pola, Monday, May 5, 2025 at 17:20 UTC
+- Departure: Mar Menor (37.7471, -0.7397), Monday, May 5, 2025 at 09:59 UTC
+- Arrival: Santa Pola (38.1881, -0.5619), Monday, May 5, 2025 at 17:20 UTC
 - Duration: 7.3 h
 - Distance: 31.5 nm
 - Average speed: 4.3 kn
 
-Left Mar Menor and made for Santa Pola, a modest half-day's sail covering 32 nautical miles at an average of 4.3 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
+Left Mar Menor and made for Santa Pola, a modest half-day's sail covering 32 nautical miles at an average of 4.3 knots. It backed from WNW to SSW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Mar Menor to Santa Pola](/img/tracks/trip09-mar-menor-to-santa-pola.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

@@ -9,12 +9,12 @@ permalink: /2025/05/29/alcudia-to-port-de-pollenca/
 
 **Logbook**
 
-- Departure: Alcúdia, Thursday, May 29, 2025 at 10:32 UTC
-- Arrival: Port de Pollença, Thursday, May 29, 2025 at 16:22 UTC
+- Departure: Alcúdia (39.8262, 3.1504), Thursday, May 29, 2025 at 10:32 UTC
+- Arrival: Port de Pollença (39.9023, 3.0852), Thursday, May 29, 2025 at 16:22 UTC
 - Duration: 5.8 h
 - Distance: 15.0 nm
 - Average speed: 2.6 kn
 
-Left Alcúdia and made for Port de Pollença, a modest half-day's sail covering 15 nautical miles at an average of 2.6 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
+Left Alcúdia and made for Port de Pollença, a modest half-day's sail covering 15 nautical miles at an average of 2.6 knots. It veered from N to ESE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Alcúdia to Port de Pollença](/img/tracks/trip22-alcudia-to-port-de-pollenca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

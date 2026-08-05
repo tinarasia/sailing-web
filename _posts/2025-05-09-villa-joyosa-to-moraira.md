@@ -9,12 +9,12 @@ permalink: /2025/05/09/villa-joyosa-to-moraira/
 
 **Logbook**
 
-- Departure: Villa Joyosa, Friday, May 9, 2025 at 09:26 UTC
-- Arrival: Moraira, Friday, May 9, 2025 at 16:24 UTC
+- Departure: Villa Joyosa (38.5044, -0.2178), Friday, May 9, 2025 at 09:26 UTC
+- Arrival: Moraira (38.6855, 0.1441), Friday, May 9, 2025 at 16:24 UTC
 - Duration: 7.0 h
 - Distance: 21.2 nm
 - Average speed: 3.0 kn
 
-Left Villa Joyosa and made for Moraira, a modest half-day's sail covering 21 nautical miles at an average of 3.0 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
+Left Villa Joyosa and made for Moraira, a modest half-day's sail covering 21 nautical miles at an average of 3.0 knots. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Villa Joyosa to Moraira](/img/tracks/trip11-villa-joyosa-to-moraira.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

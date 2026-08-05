@@ -9,12 +9,12 @@ permalink: /2025/05/27/portocristo-to-cala-ratjada/
 
 **Logbook**
 
-- Departure: Portocristo, Tuesday, May 27, 2025 at 10:31 UTC
-- Arrival: Cala Ratjada, Tuesday, May 27, 2025 at 16:29 UTC
+- Departure: Portocristo (39.5370, 3.3401), Tuesday, May 27, 2025 at 10:31 UTC
+- Arrival: Cala Ratjada (39.7080, 3.4627), Tuesday, May 27, 2025 at 16:29 UTC
 - Duration: 6.0 h
 - Distance: 14.1 nm
 - Average speed: 2.4 kn
 
-Left Portocristo and made for Cala Ratjada, a modest half-day's sail covering 14 nautical miles at an average of 2.4 knots. Logbook only, for now — the real story of wind, swell and whatever went wrong with the autopilot this time is still waiting to be filled in.
+Left Portocristo and made for Cala Ratjada, a modest half-day's sail covering 14 nautical miles at an average of 2.4 knots. It veered from E to SE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Portocristo to Cala Ratjada](/img/tracks/trip20-portocristo-to-cala-ratjada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
