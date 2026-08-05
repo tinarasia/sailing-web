@@ -14,8 +14,8 @@ permalink: /2026/05/17/cala-ratjada-to-cala-degollador/
 - Duration: 7.9 h
 - Distance: 24.7 nm
 - Average speed: 3.1 kn
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, J, E, Björn
 
-Underway from Cala Ratjada toward Cala Degollador, a modest half-day's sail — 25 nautical miles at an average of 3.1 knots. Wind 9–12 kn from the S, gusting to 15 kn. Seas up to 0.7m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Underway from Cala Ratjada toward Cala Degollador, a modest half-day's sail — 25 nautical miles at an average of 3.1 knots. Wind 9–12 kn from the S, gusting to 15 kn. Seas up to 0.7m. Björn joined the crew in Cala Ratjada before this leg. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
 ![Track from Cala Ratjada to Cala Degollador](/img/tracks/trip13-cala-ratjada-to-cala-degollador.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
