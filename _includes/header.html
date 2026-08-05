@@ -1,17 +1,14 @@
-<header role="banner">
-    <a href="/" id="banner" title="{{ site.title }}">
+<header class="site-header {% if page.url == '/' %}site-header--minimal{% endif %}" role="banner">
+    <a href="{{ site.baseurl }}/" class="site-header-wordmark" title="{{ site.title }}">
         <h1>{{ site.title }}</h1>
     </a>
-</header>
 
-<div id="navbar" style="text-align: center">
-<hr width="75%">
-<a href="/boat/">&#x26F5; the boat</a>
-&nbsp;&#xB7;&nbsp;
-<a href="/crew/">&#x2388; the crew</a>
-&nbsp;&#xB7;&nbsp;
-<a href="/">&#x2693; our voyages</a>
-&nbsp;&#xB7;&nbsp;
-<a href="/where/">&#x1F50D; boat tracking</a>
-<hr width="75%">
-</div>
+    <nav>
+        <ul class="site-nav">
+            <li><a href="{{ site.baseurl }}/" {% if page.url == '/' %}class="is-active"{% endif %}>&#x2693; Voyages</a></li>
+            <li><a href="{{ site.baseurl }}/boat/" {% if page.url == '/boat/' %}class="is-active"{% endif %}>&#x26F5; The Boat</a></li>
+            <li><a href="{{ site.baseurl }}/crew/" {% if page.url == '/crew/' %}class="is-active"{% endif %}>&#x2388; The Crew</a></li>
+            <li><a href="{{ site.baseurl }}/where/" {% if page.url == '/where/' %}class="is-active"{% endif %}>&#x1F50D; Track Us</a></li>
+        </ul>
+    </nav>
+</header>

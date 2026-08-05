@@ -4,22 +4,29 @@
 @charset "utf-8";
 
 // Typography
-$base-font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
+$base-font-family: "adobe-caslon-pro", "Adobe Caslon Pro", "EB Garamond", serif;
 $caption-font-family: "ltc-bodoni-175", "Libre Baskerville", serif;
-$banner-font-family: "Sanchez", serif;
+$banner-font-family: "Cormorant Garamond", "Sanchez", serif;
 $title-font-family: "Libre Baskerville", serif;
 $base-font-size:   18px;
 $base-font-weight: 400;
 $base-line-height: 1;
 
-// Colours
-$text-color:       #222;
-$caption-text-color: #444;
-$border-color: #979797;
-$background-color: #fefefe;
+// Colours -- refined nautical / classic palette
+$navy:              #1b2a38;
+$navy-deep:          #0f1c28;
+$parchment:          #f8f4ea;
+$parchment-alt:      #f0e9d8;
+$gold:               #ab8a4c;
+$gold-light:         #d3b978;
+
+$text-color:       #24313d;
+$caption-text-color: #4a4038;
+$border-color: #d9cfb8;
+$background-color: $parchment;
 $content-width:    750px;
-$hover-color: #443E40;
-$legal-color: #818181;
+$hover-color: $gold;
+$legal-color: #7c7364;
 
 // Layout
 $layout-width: 750px;
@@ -28,17 +35,9 @@ $layout-width: 750px;
 $desktop-breakpoint: $layout-width / 0.9;
 $image-splitting-breakpoint: 510px;
 
-// Banner
-$banner-width: 364px;
-$banner-height: 1006px;
-$banner-margin: 50px;
-$banner-border-width: 3px;
-$banner-border-offset: 2px;
-
 // Images
 // Note that extensions are omitted for use in retina-background-image mixin
 $img-separator: '{{ site.baseurl }}/img/separator';
-$img-banner: '{{ site.baseurl }}/img/banner';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-location: '{{ site.baseurl }}/img/icon-location';
 
