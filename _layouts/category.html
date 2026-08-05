@@ -3,6 +3,10 @@ layout: default
 ---
 <h2 class="category-title">{{ page.title }}</h2>
 
+<p class="category-overview-back">
+    <a href="{{ site.baseurl }}{{ page.url }}list/">View as a list &rarr;</a>
+</p>
+
 {% assign posts = site.categories[page.category_filter] | reverse %}
 {% for post in posts %}
   {% include post.html post=post content=post.content %}

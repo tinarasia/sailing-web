@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h2 class="category-title">{{ page.title }}</h2>
+
+<p class="category-overview-back">
+    <a href="{{ site.baseurl }}{{ page.url | remove_first: 'list/' }}">&larr; Read the full posts</a>
+</p>
+
+<ul class="category-overview-list">
+    {% assign posts = site.categories[page.category_filter] | reverse %}
+    {% for post in posts %}
+        <li>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
+</ul>
