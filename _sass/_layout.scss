@@ -1,3 +1,9 @@
+// Keep "S/V Tinarasia" from breaking across lines mid-name, wherever the
+// site title is rendered as a heading (header wordmark, homepage hero).
+.nobr {
+    white-space: nowrap;
+}
+
 // ----------------------------------------------------------------------
 // Site header / navigation
 // ----------------------------------------------------------------------

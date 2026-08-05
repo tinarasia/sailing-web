@@ -1,6 +1,6 @@
 <header class="site-header {% if page.url == '/' %}site-header--minimal{% endif %}" role="banner">
     <a href="{{ site.baseurl }}/" class="site-header-wordmark" title="{{ site.title }}">
-        <h1>{{ site.title }}</h1>
+        <h1>{{ site.title | replace: 'S/V Tinarasia', '<span class="nobr">S/V Tinarasia</span>' }}</h1>
     </a>
 
     <nav>
