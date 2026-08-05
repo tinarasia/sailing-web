@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cala tuent to cala de sa calobra"
+title: "cala tuent - cala de sa calobra"
 date: 2026-04-30 11:44:58 +0000
 categories: ["Spring 2026"]
 location: "Cala de Sa Calobra"

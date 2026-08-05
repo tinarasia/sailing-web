@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "los escullos to carboneras"
+title: "los escullos - carboneras"
 date: 2025-04-23 19:54:17 +0000
 categories: ["Spring 2025"]
 location: "Carboneras"

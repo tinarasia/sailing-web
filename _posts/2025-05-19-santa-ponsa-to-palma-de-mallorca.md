@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "santa ponsa to palma de mallorca"
+title: "santa ponsa - palma de mallorca"
 date: 2025-05-19 15:58:14 +0000
 categories: ["Spring 2025"]
 location: "Palma de Mallorca"

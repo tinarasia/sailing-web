@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "port de sóller to cala sant vicenç"
+title: "port de sóller - cala sant vicenç"
 date: 2026-05-04 15:44:00 +0000
 categories: ["Spring 2026"]
 location: "Cala Sant Vicenç"

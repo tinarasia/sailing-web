@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cala santanyí / cala llombards to portocristo"
+title: "cala santanyí / cala llombards - portocristo"
 date: 2025-05-25 16:05:28 +0000
 categories: ["Spring 2025"]
 location: "Portocristo"

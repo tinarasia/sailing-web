@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bonaire (mallorca) to alcúdia"
+title: "bonaire (mallorca) - alcúdia"
 date: 2026-05-11 16:49:50 +0000
 categories: ["Spring 2026"]
 location: "Alcúdia"

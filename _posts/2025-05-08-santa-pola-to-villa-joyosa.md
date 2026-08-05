@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "santa pola to villa joyosa"
+title: "santa pola - villa joyosa"
 date: 2025-05-08 15:47:57 +0000
 categories: ["Spring 2025"]
 location: "Villa Joyosa"

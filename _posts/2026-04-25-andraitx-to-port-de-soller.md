@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "andraitx to port de sóller"
+title: "andraitx - port de sóller"
 date: 2026-04-25 17:52:20 +0000
 categories: ["Spring 2026"]
 location: "Port de Sóller"

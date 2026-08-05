@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "port de sóller to sant carles de la ràpita"
+title: "port de sóller - sant carles de la ràpita"
 date: 2025-06-09 03:25:28 +0000
 categories: ["Spring 2025"]
 location: "Sant Carles de la Ràpita"

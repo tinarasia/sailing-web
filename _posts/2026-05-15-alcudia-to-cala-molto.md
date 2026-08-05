@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "alcúdia to cala moltó"
+title: "alcúdia - cala moltó"
 date: 2026-05-15 15:11:10 +0000
 categories: ["Spring 2026"]
 location: "Cala Moltó"

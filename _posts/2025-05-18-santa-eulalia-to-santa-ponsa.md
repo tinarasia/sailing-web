@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "santa eulalia to santa ponsa"
+title: "santa eulalia - santa ponsa"
 date: 2025-05-18 01:30:18 +0000
 categories: ["Spring 2025"]
 location: "Santa Ponsa"

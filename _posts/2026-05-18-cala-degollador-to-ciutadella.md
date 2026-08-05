@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cala degollador to ciutadella"
+title: "cala degollador - ciutadella"
 date: 2026-05-18 08:18:46 +0000
 categories: ["Spring 2026"]
 location: "Ciutadella"

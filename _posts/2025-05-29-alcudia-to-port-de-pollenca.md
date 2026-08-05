@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "alcúdia to port de pollença"
+title: "alcúdia - port de pollença"
 date: 2025-05-29 16:22:49 +0000
 categories: ["Spring 2025"]
 location: "Port de Pollença"

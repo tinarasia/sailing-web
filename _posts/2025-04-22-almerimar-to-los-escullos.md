@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "almerimar to los escullos"
+title: "almerimar - los escullos"
 date: 2025-04-22 11:12:29 +0000
 categories: ["Spring 2025"]
 location: "Los Escullos"

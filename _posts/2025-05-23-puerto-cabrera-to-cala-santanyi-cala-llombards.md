@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "puerto cabrera to cala santanyí / cala llombards"
+title: "puerto cabrera - cala santanyí / cala llombards"
 date: 2025-05-23 19:09:05 +0000
 categories: ["Spring 2025"]
 location: "Cala Santanyí / Cala Llombards"

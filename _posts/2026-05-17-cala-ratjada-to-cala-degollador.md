@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cala ratjada to cala degollador"
+title: "cala ratjada - cala degollador"
 date: 2026-05-17 19:12:50 +0000
 categories: ["Spring 2026"]
 location: "Cala Degollador"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "villa joyosa to moraira"
+title: "villa joyosa - moraira"
 date: 2025-05-09 16:24:38 +0000
 categories: ["Spring 2025"]
 location: "Moraira"

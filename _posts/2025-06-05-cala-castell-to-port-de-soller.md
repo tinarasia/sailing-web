@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cala castell to port de sóller"
+title: "cala castell - port de sóller"
 date: 2025-06-05 17:40:22 +0000
 categories: ["Spring 2025"]
 location: "Port de Sóller"

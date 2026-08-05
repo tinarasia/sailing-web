@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "port de pollença to bonaire (mallorca)"
+title: "port de pollença - bonaire (mallorca)"
 date: 2026-05-10 11:57:49 +0000
 categories: ["Spring 2026"]
 location: "Bonaire (Mallorca)"

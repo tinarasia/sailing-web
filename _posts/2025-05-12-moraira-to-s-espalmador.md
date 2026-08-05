@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "moraira to s'espalmador"
+title: "moraira - s'espalmador"
 date: 2025-05-12 00:23:35 +0000
 categories: ["Spring 2025"]
 location: "S'Espalmador"

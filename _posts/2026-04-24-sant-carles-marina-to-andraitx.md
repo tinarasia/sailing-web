@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sant carles marina to andraitx"
+title: "sant carles marina - andraitx"
 date: 2026-04-24 02:55:19 +0000
 categories: ["Spring 2026"]
 location: "Andraitx"

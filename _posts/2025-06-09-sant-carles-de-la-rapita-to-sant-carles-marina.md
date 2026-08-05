@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sant carles de la ràpita to sant carles marina"
+title: "sant carles de la ràpita - sant carles marina"
 date: 2025-06-09 13:08:08 +0000
 categories: ["Spring 2025"]
 location: "Sant Carles Marina"

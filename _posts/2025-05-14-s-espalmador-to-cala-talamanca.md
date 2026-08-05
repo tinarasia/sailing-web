@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "s'espalmador to cala talamanca"
+title: "s'espalmador - cala talamanca"
 date: 2025-05-14 18:20:46 +0000
 categories: ["Spring 2025"]
 location: "Cala Talamanca"

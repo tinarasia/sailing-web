@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "portocristo to cala ratjada"
+title: "portocristo - cala ratjada"
 date: 2025-05-27 16:29:36 +0000
 categories: ["Spring 2025"]
 location: "Cala Ratjada"

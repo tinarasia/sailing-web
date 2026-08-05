@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cala talamanca to santa eulalia"
+title: "cala talamanca - santa eulalia"
 date: 2025-05-15 16:51:21 +0000
 categories: ["Spring 2025"]
 location: "Santa Eulalia"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mar menor to santa pola"
+title: "mar menor - santa pola"
 date: 2025-05-05 17:20:35 +0000
 categories: ["Spring 2025"]
 location: "Santa Pola"

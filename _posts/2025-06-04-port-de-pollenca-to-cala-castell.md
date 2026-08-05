@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "port de pollença to cala castell"
+title: "port de pollença - cala castell"
 date: 2025-06-04 19:43:51 +0000
 categories: ["Spring 2025"]
 location: "Cala Castell"

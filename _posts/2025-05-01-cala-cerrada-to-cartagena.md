@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cala cerrada to cartagena"
+title: "cala cerrada - cartagena"
 date: 2025-05-01 15:25:59 +0000
 categories: ["Spring 2025"]
 location: "Cartagena"
