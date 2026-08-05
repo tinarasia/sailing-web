@@ -15,23 +15,27 @@ Permanent crew:
  <img src="/img/flags/dk.png">
  <img src="/img/flags/gi.png">
  <img src="/img/flags/es.png">
+ ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )
 * [Anna](/crew/anna)
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/berlin-22x14.png"> <img src="/img/flags/de/brandenburg-22x14.png"> )
  <img src="/img/flags/es.png">
+ ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
 * [J](/crew/j)
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/berlin-22x14.png"> <img src="/img/flags/de/brandenburg-22x14.png"> )
  <img src="/img/flags/es.png">
+ ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
 * [E](/crew/e)
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/berlin-22x14.png"> )
  <img src="/img/flags/es.png">
+ ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
 
 Past temporary members of the crew:
 
 * [Bergie](https://lille-oe.de/crew/) - <img src="/img/flags/gi.png">-<img src="/img/flags/es.png"> ( <img src="/img/flags/es/andalucia-22x14.png"> )
-* [Suski](https://lille-oe.de/crew/) - <img src="/img/flags/gi.png">-<img src="/img/flags/es.png">
+* [Suski](https://lille-oe.de/crew/) - <img src="/img/flags/gi.png">-<img src="/img/flags/es.png"> ( <img src="/img/flags/es/andalucia-22x14.png"> )
 * Hendrik - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )
 * Jofijaan - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )
 * Björn - <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )
