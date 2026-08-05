@@ -16,6 +16,6 @@ permalink: /2025/04/25/carboneras-to-garrucha/
 - Average speed: 2.8 kn
 - Crew: Tobi, Anna, J, E
 
-Carboneras to Garrucha: a modest half-day's sail, 14 nautical miles at an average of 2.8 knots. Wind 4–8 kn from the SSE, gusting to 20 kn. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Carboneras to Garrucha: a modest half-day's sail, 14 nautical miles at an average of 2.8 knots. Wind 4–8 kn from the SSE, gusting to 20 kn. The seafood restaurants at the harbor were excellent — though a gypsum shipping facility right by the marina keeps everything coated in a fine layer of dust.
 
 ![Track from Carboneras to Garrucha](/img/tracks/trip03-carboneras-to-garrucha.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

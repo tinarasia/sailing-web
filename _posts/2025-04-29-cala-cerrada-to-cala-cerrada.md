@@ -16,6 +16,6 @@ permalink: /2025/04/29/cala-cerrada-to-cala-cerrada/
 - Average speed: 1.5 kn
 - Crew: Tobi, Anna, J, E
 
-Weighed anchor at Cala Cerrada, bound for Cala Cerrada — a short hop covering 1 nautical miles at an average of 1.5 knots. Wind 15 kn from the ENE, gusting to 29 kn. Seas up to 1.3m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Weighed anchor at Cala Cerrada, bound for Cala Cerrada — a short hop covering 1 nautical miles at an average of 1.5 knots. Wind 15 kn from the ENE, gusting to 29 kn. Seas up to 1.3m. A first attempt to make a break for Cartagena — turned back almost as soon as we left, the sea state outside the cove too rough to continue, and back to the mooring ball we went.
 
 ![Track from Cala Cerrada to Cala Cerrada](/img/tracks/trip06-cala-cerrada-to-cala-cerrada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

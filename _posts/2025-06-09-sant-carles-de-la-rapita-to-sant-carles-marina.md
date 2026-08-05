@@ -16,6 +16,6 @@ permalink: /2025/06/09/sant-carles-de-la-rapita-to-sant-carles-marina/
 - Average speed: 2.2 kn
 - Crew: Tobi, Riot
 
-Set a course from Sant Carles de la Ràpita to Sant Carles Marina: a short hop, 2 nautical miles at an average of 2.2 knots. Wind 8 kn from the SSE, gusting to 17 kn. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Set a course from Sant Carles de la Ràpita to Sant Carles Marina: a short hop, 2 nautical miles at an average of 2.2 knots. Wind 8 kn from the SSE, gusting to 17 kn. The short move from anchor off Punta de la Banya into the marina, and the last leg of the Spring 2025 season — Tinarasia would be hauled out for a long refit shortly after.
 
 ![Track from Sant Carles de la Ràpita to Sant Carles Marina](/img/tracks/trip26-sant-carles-de-la-rapita-to-sant-carles-marina.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

@@ -16,6 +16,6 @@ permalink: /2025/05/25/cala-santanyi-cala-llombards-to-portocristo/
 - Average speed: 3.8 kn
 - Crew: Tobi, Anna, J, E
 
-Left Cala Santanyí / Cala Llombards and made for Portocristo, a modest half-day's sail covering 18 nautical miles at an average of 3.8 knots. Wind 11–12 kn from the SW, gusting to 26 kn. Hendrik headed home from Cala Santanyí, back to a crew of four. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Left Cala Santanyí / Cala Llombards and made for Portocristo, a modest half-day's sail covering 18 nautical miles at an average of 3.8 knots. Wind 11–12 kn from the SW, gusting to 26 kn. Back to a crew of four after Hendrik's departure. In Portocristo we visited the Cuevas del Drach, an impressive network of underground caves hung with stalagmites and stalactites, and met Bine and Peter aboard S/V JOY.
 
 ![Track from Cala Santanyí / Cala Llombards to Portocristo](/img/tracks/trip19-cala-santanyi-cala-llombards-to-portocristo.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
