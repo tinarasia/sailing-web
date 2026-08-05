@@ -14,6 +14,7 @@ permalink: /2025/05/28/cala-ratjada-to-alcudia/
 - Duration: 6.9 h
 - Distance: 21.1 nm
 - Average speed: 3.1 kn
+- Crew: Tobi, Anna, J, E
 
 Departed Cala Ratjada for Alcúdia, a modest half-day's sail covering 21 nautical miles at 3.1 knots average. Wind 3–5 kn from the E, gusting to 14 kn. It veered from NNE to E. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

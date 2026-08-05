@@ -14,6 +14,7 @@ permalink: /2025/05/27/portocristo-to-cala-ratjada/
 - Duration: 6.0 h
 - Distance: 14.1 nm
 - Average speed: 2.4 kn
+- Crew: Tobi, Anna, J, E
 
 Slipped the lines at Portocristo and pointed the bow toward Cala Ratjada, a modest half-day's sail covering 14 nautical miles at an average of 2.4 knots. Wind 5–7 kn from the ESE, gusting to 17 kn. It veered from E to SE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

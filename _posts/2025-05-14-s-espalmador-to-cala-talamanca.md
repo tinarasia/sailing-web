@@ -14,6 +14,7 @@ permalink: /2025/05/14/s-espalmador-to-cala-talamanca/
 - Duration: 5.6 h
 - Distance: 12.5 nm
 - Average speed: 2.2 kn
+- Crew: Tobi, Anna, J, E
 
 S'Espalmador to Cala Talamanca: a modest half-day's sail, 12 nautical miles at an average of 2.2 knots. Wind 5–8 kn from the E, gusting to 20 kn. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

@@ -14,6 +14,7 @@ permalink: /2025/05/04/cartagena-to-mar-menor/
 - Duration: 7.8 h
 - Distance: 29.6 nm
 - Average speed: 3.8 kn
+- Crew: Tobi, Anna, J, E
 
 Slipped the lines at Cartagena and pointed the bow toward Mar Menor, a modest half-day's sail covering 30 nautical miles at an average of 3.8 knots. Wind 0–17 kn from the SSW, gusting to 34 kn. Seas up to 1.3m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

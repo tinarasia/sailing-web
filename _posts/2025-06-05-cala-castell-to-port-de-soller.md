@@ -14,6 +14,7 @@ permalink: /2025/06/05/cala-castell-to-port-de-soller/
 - Duration: 10.2 h
 - Distance: 20.5 nm
 - Average speed: 2.0 kn
+- Crew: Tobi, Riot
 
 Slipped the lines at Cala Castell and pointed the bow toward Port de Sóller, a full day underway covering 20 nautical miles at an average of 2.0 knots. Wind 1–3 kn from the NNE, gusting to 12 kn. Current up to 0.5 kn setting ENE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

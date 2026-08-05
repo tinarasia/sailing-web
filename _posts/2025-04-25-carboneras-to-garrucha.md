@@ -14,6 +14,7 @@ permalink: /2025/04/25/carboneras-to-garrucha/
 - Duration: 5.1 h
 - Distance: 14.3 nm
 - Average speed: 2.8 kn
+- Crew: Tobi, Anna, J, E
 
 Carboneras to Garrucha: a modest half-day's sail, 14 nautical miles at an average of 2.8 knots. Wind 4–8 kn from the SSE, gusting to 20 kn. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

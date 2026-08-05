@@ -14,6 +14,7 @@ permalink: /2025/05/01/cala-cerrada-to-cartagena/
 - Duration: 5.9 h
 - Distance: 12.3 nm
 - Average speed: 2.1 kn
+- Crew: Tobi, Anna, J, E
 
 Departed Cala Cerrada for Cartagena, a modest half-day's sail covering 12 nautical miles at 2.1 knots average. Wind 7–11 kn from the ENE, gusting to 22 kn. Seas up to 1.2m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

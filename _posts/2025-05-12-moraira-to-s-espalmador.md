@@ -14,6 +14,7 @@ permalink: /2025/05/12/moraira-to-s-espalmador/
 - Duration: 17.7 h
 - Distance: 64.2 nm
 - Average speed: 3.6 kn
+- Crew: Tobi, Anna, J, E
 
 Slipped the lines at Moraira and pointed the bow toward S'Espalmador, a long day that ran past sunset covering 64 nautical miles at an average of 3.6 knots. Wind 3–13 kn from the SW, gusting to 17 kn. It backed from NNW to WSW. Seas up to 0.7m. Current up to 0.7 kn setting E. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

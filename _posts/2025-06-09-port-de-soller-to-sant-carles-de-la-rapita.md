@@ -14,6 +14,7 @@ permalink: /2025/06/09/port-de-soller-to-sant-carles-de-la-rapita/
 - Duration: 40.4 h
 - Distance: 117.2 nm
 - Average speed: 2.9 kn
+- Crew: Tobi, Riot
 
 Cast off from Port de Sóller bound for Sant Carles de la Ràpita — an overnight passage of roughly 1.7 days, 117 nautical miles at an average of 2.9 knots. Wind 2–15 kn from the E, gusting to 21 kn. It backed from SSE to E. Seas up to 1.3m. Current up to 0.5 kn setting WSW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

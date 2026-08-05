@@ -14,6 +14,7 @@ permalink: /2025/04/28/aguilas-to-cala-cerrada/
 - Duration: 10.8 h
 - Distance: 39.2 nm
 - Average speed: 3.6 kn
+- Crew: Tobi, Anna, J, E
 
 Departed Águilas for Cala Cerrada, a full day underway covering 39 nautical miles at 3.6 knots average. Wind 7–13 kn from the E, gusting to 25 kn. Seas up to 0.8m. Current up to 0.8 kn setting NNE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

@@ -14,6 +14,7 @@ permalink: /2025/04/29/cala-cerrada-to-cala-cerrada/
 - Duration: 1.0 h
 - Distance: 1.5 nm
 - Average speed: 1.5 kn
+- Crew: Tobi, Anna, J, E
 
 Weighed anchor at Cala Cerrada, bound for Cala Cerrada — a short hop covering 1 nautical miles at an average of 1.5 knots. Wind 15 kn from the ENE, gusting to 29 kn. Seas up to 1.3m. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

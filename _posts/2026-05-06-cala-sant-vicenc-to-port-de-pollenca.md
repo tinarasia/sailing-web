@@ -14,6 +14,7 @@ permalink: /2026/05/06/cala-sant-vicenc-to-port-de-pollenca/
 - Duration: 8.2 h
 - Distance: 20.8 nm
 - Average speed: 2.5 kn
+- Crew: Tobi, Anna, J, E
 
 Left Cala Sant Vicenç and made for Port de Pollença, a full day underway covering 21 nautical miles at an average of 2.5 knots. Wind 3–7 kn from the ESE, gusting to 17 kn. It veered from NE to SSE. About 1 mm of rain fell along the way. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 

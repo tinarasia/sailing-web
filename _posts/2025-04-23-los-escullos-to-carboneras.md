@@ -14,6 +14,7 @@ permalink: /2025/04/23/los-escullos-to-carboneras/
 - Duration: 10.3 h
 - Distance: 28.8 nm
 - Average speed: 2.8 kn
+- Crew: Tobi, Anna, J, E
 
 Departed Los Escullos for Carboneras, a full day underway covering 29 nautical miles at 2.8 knots average. Wind 6–9 kn from the ENE, gusting to 19 kn. Current up to 0.5 kn setting WSW. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
 
