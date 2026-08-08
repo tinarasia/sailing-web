@@ -270,6 +270,35 @@
 }
 
 // ----------------------------------------------------------------------
+// Crew page tables
+// ----------------------------------------------------------------------
+.crew-table {
+    border-collapse: collapse;
+    margin: 0 0 26px;
+    width: 100%;
+
+    td {
+        padding: 6px 14px 6px 0;
+        border-bottom: 1px solid $border-color;
+        vertical-align: middle;
+
+        &:first-child {
+            font-weight: 600;
+            white-space: nowrap;
+            padding-right: 24px;
+        }
+    }
+
+    tr:last-child td {
+        border-bottom: 0;
+    }
+
+    img {
+        vertical-align: middle;
+    }
+}
+
+// ----------------------------------------------------------------------
 // Footer
 // ----------------------------------------------------------------------
 #footer {

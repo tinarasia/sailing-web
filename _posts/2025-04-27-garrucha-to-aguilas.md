@@ -16,6 +16,6 @@ permalink: /2025/04/27/garrucha-to-aguilas/
 - Average speed: 2.6 kn
 - Crew: Tobi, Anna, J, E
 
-Cast off from Garrucha bound for Águilas — a full day underway, 22 nautical miles at an average of 2.6 knots. Wind 6–10 kn from the E, gusting to 20 kn. It backed from SE to ENE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Cast off from Garrucha bound for Águilas — a full day underway, 22 nautical miles at an average of 2.6 knots. Wind 6–10 kn from the E, gusting to 20 kn. It backed from SE to ENE. Nice sailing throughout, capped off with a quiet anchorage in the bay of Águilas.
 
 ![Track from Garrucha to Águilas](/img/tracks/trip04-garrucha-to-aguilas.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

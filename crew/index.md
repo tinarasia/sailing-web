@@ -7,35 +7,46 @@ permalink: /crew/
 
 Permanent crew:
 
-* [The Skipper](/crew/the_skipper)
- ...
-* [Tobi](/crew/tobi)
+<table class="crew-table">
+<tr><td><a href="/crew/the_skipper">The Skipper</a></td><td>...</td></tr>
+<tr><td><a href="/crew/tobi">Tobi</a></td><td>
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/schleswig-holstein-22x14.png"> <img src="/img/flags/de/hamburg-22x14.png"> <img src="/img/flags/de/berlin-22x14.png"> <img src="/img/flags/de/brandenburg-22x14.png"> )
  <img src="/img/flags/dk.png">
  <img src="/img/flags/gi.png">
  <img src="/img/flags/es.png">
-* [Anna](/crew/anna)
+ ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )
+</td></tr>
+<tr><td><a href="/crew/anna">Anna</a></td><td>
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/berlin-22x14.png"> <img src="/img/flags/de/brandenburg-22x14.png"> )
  <img src="/img/flags/es.png">
-* [J](/crew/j)
+ ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
+</td></tr>
+<tr><td><a href="/crew/j">J</a></td><td>
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/berlin-22x14.png"> <img src="/img/flags/de/brandenburg-22x14.png"> )
  <img src="/img/flags/es.png">
-* [E](/crew/e)
+ ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
+</td></tr>
+<tr><td><a href="/crew/e">E</a></td><td>
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/berlin-22x14.png"> )
  <img src="/img/flags/es.png">
+ ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
+</td></tr>
+</table>
 
 Past temporary members of the crew:
 
-* [Bergie](https://lille-oe.de/crew/) - <img src="/img/flags/gi.png">-<img src="/img/flags/es.png">
-* [Suski](https://lille-oe.de/crew/) - <img src="/img/flags/gi.png">-<img src="/img/flags/es.png">
-* Hendrik - <img src="/img/flags/es.png">
-* Jofijaan - <img src="/img/flags/es.png">
-* Björn - <img src="/img/flags/es.png">
-* Martin - <img src="/img/flags/es.png">
-* Bernhard - <img src="/img/flags/es.png">
-* Anatol - <img src="/img/flags/es.png">
-* Riot - <img src="/img/flags/es.png">
+<table class="crew-table">
+<tr><td><a href="https://lille-oe.de/crew/">Bergie</a></td><td> <img src="/img/flags/gi.png">-<img src="/img/flags/es.png"> ( <img src="/img/flags/es/andalucia-22x14.png"> )</td></tr>
+<tr><td><a href="https://lille-oe.de/crew/">Suski</a></td><td> <img src="/img/flags/gi.png">-<img src="/img/flags/es.png"> ( <img src="/img/flags/es/andalucia-22x14.png"> )</td></tr>
+<tr><td>Hendrik</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )</td></tr>
+<tr><td>Jofijaan</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )</td></tr>
+<tr><td>Björn</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> )</td></tr>
+<tr><td>Martin</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/catalonia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )</td></tr>
+<tr><td>Bernhard</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/catalonia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )</td></tr>
+<tr><td>Anatol</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )</td></tr>
+<tr><td>Riot</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )</td></tr>
+</table>

@@ -16,6 +16,6 @@ permalink: /2025/04/22/almerimar-to-los-escullos/
 - Average speed: 2.5 kn
 - Crew: Tobi, Anna, J, E
 
-Weighed anchor at Almerimar, bound for Los Escullos — a long day that ran past sunset covering 40 nautical miles at an average of 2.5 knots. Wind 0–8 kn from the WSW, gusting to 18 kn. Current up to 1.4 kn setting ENE. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Weighed anchor at Almerimar, bound for Los Escullos — a long day that ran past sunset covering 40 nautical miles at an average of 2.5 knots. Wind 0–8 kn from the WSW, gusting to 18 kn. Current up to 1.4 kn setting ENE. The autopilot packed in early on, so the whole leg was hand-steered. Worth it, though — the anchorage at Los Escullos, in front of an old fort, was a fine reward.
 
 ![Track from Almerimar to Los Escullos](/img/tracks/trip01-almerimar-to-los-escullos.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
