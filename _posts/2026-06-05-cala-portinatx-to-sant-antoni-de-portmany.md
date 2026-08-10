@@ -14,6 +14,7 @@ permalink: /2026/06/05/cala-portinatx-to-sant-antoni-de-portmany/
 - Duration: 5.3 h
 - Distance: 17.3 nm
 - Average speed: 3.3 kn
+- Hours & Distance under Motor: 0.7 h / 1.6 nm
 - Crew: Tobi, Anatol
 
 Left Cala Portinatx and made for Sant Antoni de Portmany, a modest half-day's sail covering 17 nautical miles at an average of 3.3 knots. Wind 6–9 kn from the ESE, gusting to 22 kn. Seas up to 1.0m. The reception at Marina Es Nàutic in Sant Antoni was great, a marinero named Leo helped us a lot. The town itself was a bit bizarre and very party-oriented.

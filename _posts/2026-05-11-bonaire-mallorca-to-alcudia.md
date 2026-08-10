@@ -14,6 +14,7 @@ permalink: /2026/05/11/bonaire-mallorca-to-alcudia/
 - Duration: 6.3 h
 - Distance: 11.1 nm
 - Average speed: 1.8 kn
+- Hours & Distance under Motor: 3.6 h / 2.4 nm
 - Crew: Tobi, Anna, J, E
 
 Underway from Bonaire (Mallorca) toward Alcúdia, a modest half-day's sail — 11 nautical miles at an average of 1.8 knots. Wind 1–2 kn from the NNE, gusting to 10 kn. It backed from NW to SSE. Along the way, a break at a long pebbly beach with goats climbing through the rocks and bushes — Tobi and J took the dinghy to explore some of the nearby caves. Anchored in the bay of Alcúdia and had some very nice beach days, met Frank on the 65ft catamaran Franke, and when the freshwater supplies started running low, filled up from his watermaker with a garden hose while tied up alongside.

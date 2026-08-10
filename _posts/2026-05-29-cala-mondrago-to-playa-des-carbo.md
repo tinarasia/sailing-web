@@ -14,6 +14,7 @@ permalink: /2026/05/29/cala-mondrago-to-playa-des-carbo/
 - Duration: 9.7 h
 - Distance: 25.0 nm
 - Average speed: 2.6 kn
+- Hours & Distance under Motor: 2.2 h / 5.0 nm
 - Crew: Tobi
 
 Departed Cala Mondragó for Playa des Carbo, a full day underway covering 25 nautical miles at 2.6 knots average. Wind 6–11 kn from the WSW, gusting to 22 kn. Playa des Carbo turned out to be a nice shallow anchorage south of Colonia de Sant Jordi.

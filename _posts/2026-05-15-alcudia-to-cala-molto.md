@@ -14,6 +14,7 @@ permalink: /2026/05/15/alcudia-to-cala-molto/
 - Duration: 4.9 h
 - Distance: 18.6 nm
 - Average speed: 3.8 kn
+- Hours & Distance under Motor: 0.4 h / 1.7 nm
 - Crew: Tobi, Anna, J, E
 
 Left Alcúdia and made for Cala Moltó, a modest half-day's sail covering 19 nautical miles at an average of 3.8 knots. Wind 8–14 kn from the WNW, gusting to 31 kn. Seas up to 0.8m. The swell in the anchorage was horrible — even with a stern anchor down to keep the bow pointed into the waves, it was a rollercoaster ride all night.

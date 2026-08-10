@@ -14,6 +14,7 @@ permalink: /2026/04/29/port-de-soller-to-cala-tuent/
 - Duration: 2.4 h
 - Distance: 6.3 nm
 - Average speed: 2.7 kn
+- Hours & Distance under Motor: 0.9 h / 2.4 nm
 - Crew: Tobi, Anna, J, E, Jofijaan
 
 Port de Sóller to Cala Tuent: a short hop, 6 nautical miles at an average of 2.7 knots. Wind 6 kn from the ENE, gusting to 17 kn. While alongside in Port de Sóller, Bernhard headed home, Anna — Tobi's partner, and mother of J (3) and E (1) — joined the boat with the kids, along with friend Jofijaan, and then Martin headed home too. Cala Tuent turned out to be a nice little cove with a beach and some hiking paths — somewhat spoiled by a huge tourist catamaran that kept ripping up the sea floor with its giant anchor every time it picked up passengers.

@@ -14,6 +14,7 @@ permalink: /2026/04/24/sant-carles-marina-to-andraitx/
 - Duration: 39.7 h
 - Distance: 119.8 nm
 - Average speed: 3.0 kn
+- Hours & Distance under Motor: 2.1 h / 4.0 nm
 - Crew: Tobi, Bernhard, Martin
 - Time/distance more than 12 nm offshore: 21.2 h / 75.7 nm
 

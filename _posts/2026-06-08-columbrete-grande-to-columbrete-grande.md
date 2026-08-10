@@ -14,6 +14,7 @@ permalink: /2026/06/08/columbrete-grande-to-columbrete-grande/
 - Duration: 0.4 h
 - Distance: 0.9 nm
 - Average speed: 2.2 kn
+- Hours & Distance under Motor: 0.3 h / 0.5 nm
 - Crew: Tobi, Anatol
 
 Departed Columbrete Grande for Columbrete Grande, a short hop covering 1 nautical miles at 2.2 knots average. Wind 3 kn from the E, gusting to 5 kn. Seas up to 0.5m. Current up to 0.9 kn setting WSW. There was a thunderstorm over the mainland that day, well out of reach of the anchorage. The weather had calmed down a lot, so we moved into the crater bay itself and called the park rangers on VHF to ask for a guided tour — fascinating stories about the history, geography, and biology of the islands. The crater turned out to be inhabited after all: two or three rangers and biologists live there, doubling as the local tour guides.

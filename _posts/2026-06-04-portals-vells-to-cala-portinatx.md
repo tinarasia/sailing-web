@@ -14,6 +14,7 @@ permalink: /2026/06/04/portals-vells-to-cala-portinatx/
 - Duration: 18.1 h
 - Distance: 60.2 nm
 - Average speed: 3.3 kn
+- Hours & Distance under Motor: 7.8 h / 19.5 nm
 - Crew: Tobi, Anatol
 
 Slipped the lines at Portals Vells and pointed the bow toward Cala Portinatx, a long day that ran past sunset covering 60 nautical miles at an average of 3.3 knots. Wind 0–13 kn from the SSE, gusting to 16 kn. It veered from NE to S. Seas up to 1.4m. Current up to 0.5 kn setting NNE. Partway across, briefly considered turning back for Port d'Andratx to wait out weakening wind, but talked ourselves out of it and held course for Ibiza. Long overnight passage — arrived in the dark and had to dodge mooring balls to get to an anchoring spot near the beach.

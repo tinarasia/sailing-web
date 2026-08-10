@@ -14,6 +14,7 @@ permalink: /2026/05/26/porto-cristo-to-portocolom/
 - Duration: 3.4 h
 - Distance: 9.4 nm
 - Average speed: 2.7 kn
+- Hours & Distance under Motor: 1.0 h / 2.4 nm
 - Crew: Tobi, Anna, J, E, Björn
 
 Left Porto Cristo and made for Portocolom, a short hop covering 9 nautical miles at an average of 2.7 knots. Wind 9–10 kn from the E, gusting to 21 kn. While in Porto Cristo we went to see the Cuevas dels Hams (fish hook caves), which were a bit disappointing — the whole family liked the Cuevas del Drach (dragon caves), visited last year, better.

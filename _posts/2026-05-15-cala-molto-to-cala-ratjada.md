@@ -14,6 +14,7 @@ permalink: /2026/05/15/cala-molto-to-cala-ratjada/
 - Duration: 0.7 h
 - Distance: 2.4 nm
 - Average speed: 3.4 kn
+- Hours & Distance under Motor: 0.5 h / 1.4 nm
 - Crew: Tobi, Anna, J, E
 
 Weighed anchor at Cala Moltó, bound for Cala Ratjada — a short hop covering 2 nautical miles at an average of 3.4 knots. Wind 5 kn from the NNE, gusting to 14 kn. Seas up to 0.5m. Got out of Cala Moltó just in time to run into a nasty squall barreling in from the northeast, and had to motor into Cala Ratjada at full throttle, thoroughly drenched. Tied up next to the gas station for the night before moving into a proper transit berth the next morning.

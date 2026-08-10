@@ -14,6 +14,7 @@ permalink: /2026/05/25/club-nautic-de-mahon-to-porto-cristo/
 - Duration: 19.9 h
 - Distance: 53.9 nm
 - Average speed: 2.7 kn
+- Hours & Distance under Motor: 2.1 h / 5.3 nm
 - Crew: Tobi, Anna, J, E, Björn
 - Time/distance more than 12 nm offshore: 3.4 h / 8.2 nm
 
