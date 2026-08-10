@@ -15,6 +15,7 @@ permalink: /2026/05/28/portocolom-to-cala-mondrago/
 - Distance: 7.0 nm
 - Average speed: 1.8 kn
 - Hours & Distance under Motor: 1.2 h / 2.2 nm
+- Miles under Sail: 4.8 nm
 - Crew: Tobi
 
 Departed Portocolom for Cala Mondragó, a modest half-day's sail covering 7 nautical miles at 1.8 knots average. Wind 6–9 kn from the SSW, gusting to 20 kn. Anna, J, E, and Björn left for the airport that morning while the boat was still in Portocolom, so this was Tobi's first solo leg of the season. Originally wanted to go to Portopetro, but it didn't look very inviting, so continued on to Cala Mondragó instead.

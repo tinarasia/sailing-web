@@ -15,6 +15,7 @@ permalink: /2026/06/09/columbrete-grande-to-sant-carles-de-la-rapita/
 - Distance: 49.7 nm
 - Average speed: 3.3 kn
 - Hours & Distance under Motor: 4.0 h / 10.3 nm
+- Miles under Sail: 39.4 nm
 - Crew: Tobi, Anatol
 
 Columbrete Grande to Sant Carles de la Ràpita: a long day that ran past sunset, 50 nautical miles at an average of 3.3 knots. Wind 7–14 kn from the ENE, gusting to 18 kn. It veered from NNE to E. Seas up to 0.9m. A thunderstorm cell sat inland that day, off to the side of the route. This leg had it all — long waves, short waves, lots of wind, almost no wind. Towards the end we motored for quite a few hours. The destination was the Club Nàutic de la Ràpita, where the boat has a year-round berth for now while waiting on the next round of refit work.

@@ -15,6 +15,7 @@ permalink: /2026/06/07/sant-antoni-de-portmany-to-columbrete-grande/
 - Distance: 69.8 nm
 - Average speed: 2.7 kn
 - Hours & Distance under Motor: 1.5 h / 2.7 nm
+- Miles under Sail: 67.1 nm
 - Crew: Tobi, Anatol
 - Time/distance more than 12 nm offshore: 13.2 h / 36.1 nm
 

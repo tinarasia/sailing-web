@@ -15,6 +15,7 @@ permalink: /2026/05/31/s-arenal-to-las-illetes/
 - Distance: 10.5 nm
 - Average speed: 2.1 kn
 - Hours & Distance under Motor: 2.9 h / 3.4 nm
+- Miles under Sail: 7.1 nm
 - Crew: Tobi
 
 Departed S'Arenal for Las Illetes, a modest half-day's sail covering 10 nautical miles at 2.1 knots average. Wind 3–8 kn from the SSW, gusting to 11 kn. With a short stopover at the breakwater of Sa Ràpita to meet up with Anja and Denny — met earlier in the "other" La Ràpita, on the mainland — headed for an anchorage west of Palma to spend the night, planning to head into the Real Club Nàutic de Palma marina the next day.

@@ -15,6 +15,7 @@ permalink: /2026/05/18/cala-degollador-to-ciutadella/
 - Distance: 0.5 nm
 - Average speed: 1.9 kn
 - Hours & Distance under Motor: 0.2 h / 0.5 nm
+- Miles under Sail: 0.0 nm
 - Crew: Tobi, Anna, J, E, Björn
 
 Cala Degollador to Ciutadella: a short hop, 1 nautical miles at an average of 1.9 knots. Wind 4 kn from the SW, gusting to 11 kn. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.

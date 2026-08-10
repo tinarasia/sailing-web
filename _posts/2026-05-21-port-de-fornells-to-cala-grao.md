@@ -15,6 +15,7 @@ permalink: /2026/05/21/port-de-fornells-to-cala-grao/
 - Distance: 12.0 nm
 - Average speed: 3.1 kn
 - Hours & Distance under Motor: 1.0 h / 2.8 nm
+- Miles under Sail: 9.2 nm
 - Crew: Tobi, Anna, J, E, Björn
 
 Set a course from Port de Fornells to Cala Grao: a short hop, 12 nautical miles at an average of 3.1 knots. Wind 5–6 kn from the NNE, gusting to 15 kn. Current up to 0.5 kn setting ESE. Behind the anchorage, towards the main beach, there's a very large flat area that's only ankle- to knee-deep. Tobi and J went exploring the beach on one of the bigger islands in the area.

@@ -15,6 +15,7 @@ permalink: /2026/04/25/andraitx-to-port-de-soller/
 - Distance: 26.0 nm
 - Average speed: 2.9 kn
 - Hours & Distance under Motor: 0.6 h / 1.8 nm
+- Miles under Sail: 24.2 nm
 - Crew: Tobi, Bernhard, Martin
 
 Andraitx to Port de Sóller: a full day underway, 26 nautical miles at an average of 2.9 knots. Wind 3–8 kn from the NNW, gusting to 11 kn. Had to motor most of the way — the wind never really showed up. Got some very nice aerial shots of the boat with the DJI Neo drone along the way.

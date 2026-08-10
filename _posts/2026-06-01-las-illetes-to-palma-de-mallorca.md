@@ -15,6 +15,7 @@ permalink: /2026/06/01/las-illetes-to-palma-de-mallorca/
 - Distance: 4.4 nm
 - Average speed: 1.6 kn
 - Hours & Distance under Motor: 1.4 h / 3.7 nm
+- Miles under Sail: 0.7 nm
 - Crew: Tobi, Anatol
 
 Slipped the lines at Las Illetes and pointed the bow toward Palma de Mallorca, a short hop covering 4 nautical miles at an average of 1.6 knots. Wind 3 kn from the SSE, gusting to 12 kn. It veered from ESE to S. Motoring into the huge harbor at Palma is always a bit exciting. The reception at RCNP (Real Club Nàutic de Palma) was great as always, and Anatol, a friend of Tobi and Anna's, came aboard here as welcome reinforcement.
