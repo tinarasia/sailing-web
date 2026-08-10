@@ -18,4 +18,4 @@ permalink: /2025/05/28/cala-ratjada-to-alcudia/
 
 Departed Cala Ratjada for Alcúdia, a modest half-day's sail covering 21 nautical miles at 3.1 knots average. Wind 3–5 kn from the E, gusting to 14 kn. It veered from NNE to E. Anchored overnight outside the harbor entrance in the bay of Alcúdia.
 
-![Track from Cala Ratjada to Alcúdia](/img/tracks/trip21-cala-ratjada-to-alcudia.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Cala Ratjada to Alcúdia: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip21-cala-ratjada-to-alcudia.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

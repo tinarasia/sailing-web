@@ -18,4 +18,4 @@ permalink: /2025/05/01/cala-cerrada-to-cartagena/
 
 Departed Cala Cerrada for Cartagena, a modest half-day's sail covering 12 nautical miles at 2.1 knots average. Wind 7–11 kn from the ENE, gusting to 22 kn. Seas up to 1.2m. Entering Cartagena harbor was an impressive approach, and the berth and facilities at Yacht Port Cartagena didn't disappoint — the whole family went exploring around the marina. Met George and Sinead aboard S/V Muhuhu, another fully electric sailboat, there.
 
-![Track from Cala Cerrada to Cartagena](/img/tracks/trip07-cala-cerrada-to-cartagena.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Cala Cerrada to Cartagena: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip07-cala-cerrada-to-cartagena.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

@@ -18,4 +18,4 @@ permalink: /2026/05/29/cala-mondrago-to-playa-des-carbo/
 
 Departed Cala Mondragó for Playa des Carbo, a full day underway covering 25 nautical miles at 2.6 knots average. Wind 6–11 kn from the WSW, gusting to 22 kn. Playa des Carbo turned out to be a nice shallow anchorage south of Colonia de Sant Jordi.
 
-![Track from Cala Mondragó to Playa des Carbo](/img/tracks/trip09-cala-mondrago-to-playa-des-carbo.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Cala Mondragó to Playa des Carbo: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip09-cala-mondrago-to-playa-des-carbo.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

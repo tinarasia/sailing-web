@@ -18,4 +18,4 @@ permalink: /2025/06/05/cala-castell-to-port-de-soller/
 
 Slipped the lines at Cala Castell and pointed the bow toward Port de Sóller, a full day underway covering 20 nautical miles at an average of 2.0 knots. Wind 1–3 kn from the NNE, gusting to 12 kn. Current up to 0.5 kn setting ENE. Port de Sóller is the only protected, safe harbor on Mallorca's north coast, and our last stop before heading back over to the mainland.
 
-![Track from Cala Castell to Port de Sóller](/img/tracks/trip24-cala-castell-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Cala Castell to Port de Sóller: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip24-cala-castell-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

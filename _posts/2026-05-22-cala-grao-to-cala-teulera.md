@@ -18,4 +18,4 @@ permalink: /2026/05/22/cala-grao-to-cala-teulera/
 
 Underway from Cala Grao toward Cala Teulera, a short hop — 7 nautical miles at an average of 2.9 knots. Wind 5 kn from the ESE, gusting to 14 kn. Anchored in Cala Teulera, which was pretty packed with boats, being the only "free" anchorage in the impressive natural harbor of Mahón.
 
-![Track from Cala Grao to Cala Teulera](/img/tracks/trip04-cala-grao-to-cala-teulera.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Cala Grao to Cala Teulera: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip04-cala-grao-to-cala-teulera.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

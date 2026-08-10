@@ -18,4 +18,4 @@ permalink: /2025/05/21/palma-de-mallorca-to-puerto-cabrera/
 
 Set a course from Palma de Mallorca to Puerto Cabrera: a full day underway, 35 nautical miles at an average of 3.4 knots. Needed a cruising permit before setting off, plus a paid reservation for a mooring buoy in the natural harbor — Cabrera is the main island of the Islas Cabreras, a nature reserve with a checkered history. Spent a couple of beach days there; Hendrik went ashore at night to photograph the Milky Way.
 
-![Track from Palma de Mallorca to Puerto Cabrera](/img/tracks/trip17-palma-de-mallorca-to-puerto-cabrera.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Palma de Mallorca to Puerto Cabrera: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip17-palma-de-mallorca-to-puerto-cabrera.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

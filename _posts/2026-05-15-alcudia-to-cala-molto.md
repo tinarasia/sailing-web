@@ -18,4 +18,4 @@ permalink: /2026/05/15/alcudia-to-cala-molto/
 
 Left Alcúdia and made for Cala Moltó, a modest half-day's sail covering 19 nautical miles at an average of 3.8 knots. Wind 8–14 kn from the WNW, gusting to 31 kn. Seas up to 0.8m. The swell in the anchorage was horrible — even with a stern anchor down to keep the bow pointed into the waves, it was a rollercoaster ride all night.
 
-![Track from Alcúdia to Cala Moltó](/img/tracks/trip11-alcudia-to-cala-molto.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Alcúdia to Cala Moltó: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip11-alcudia-to-cala-molto.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

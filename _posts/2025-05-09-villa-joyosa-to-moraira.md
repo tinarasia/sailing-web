@@ -18,4 +18,4 @@ permalink: /2025/05/09/villa-joyosa-to-moraira/
 
 Weighed anchor at Villa Joyosa, bound for Moraira — a modest half-day's sail covering 21 nautical miles at an average of 3.0 knots. Wind 4–6 kn from the SSE, gusting to 16 kn. Seas up to 0.6m. Current up to 0.5 kn setting NNE. The anchorage in the bay of Moraira was a bit rolly, but the transit berth at Club Náutic more than made up for it.
 
-![Track from Villa Joyosa to Moraira](/img/tracks/trip11-villa-joyosa-to-moraira.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Villa Joyosa to Moraira: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip11-villa-joyosa-to-moraira.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

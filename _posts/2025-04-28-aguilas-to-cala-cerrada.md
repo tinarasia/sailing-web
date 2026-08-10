@@ -18,4 +18,4 @@ permalink: /2025/04/28/aguilas-to-cala-cerrada/
 
 Departed Águilas for Cala Cerrada, a full day underway covering 39 nautical miles at 3.6 knots average. Wind 7–13 kn from the E, gusting to 25 kn. Seas up to 0.8m. Current up to 0.8 kn setting NNE. With bad weather building on the horizon, we sought shelter in this tiny, well-protected cove, picking up one of its two mooring balls — and ended up staying three nights before conditions were calm enough to press on to Cartagena. The generator got its first real workout on day two. On the first day Tobi and J took the dinghy ashore to explore the beach and a small cave, with J running around spotting wild flowers and Tobi on photography duty for Anna.
 
-![Track from Águilas to Cala Cerrada](/img/tracks/trip05-aguilas-to-cala-cerrada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Águilas to Cala Cerrada: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip05-aguilas-to-cala-cerrada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

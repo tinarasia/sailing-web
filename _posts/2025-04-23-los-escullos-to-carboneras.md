@@ -18,4 +18,4 @@ permalink: /2025/04/23/los-escullos-to-carboneras/
 
 Departed Los Escullos for Carboneras, a full day underway covering 29 nautical miles at 2.8 knots average. Wind 6–9 kn from the ENE, gusting to 19 kn. Current up to 0.5 kn setting WSW. The "marina" at Carboneras turned out to be a rickety pier with questionable electricity — and, in the low season no less, an eye-watering 50€ a night.
 
-![Track from Los Escullos to Carboneras](/img/tracks/trip02-los-escullos-to-carboneras.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Los Escullos to Carboneras: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip02-los-escullos-to-carboneras.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

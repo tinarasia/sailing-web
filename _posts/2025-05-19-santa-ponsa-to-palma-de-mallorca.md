@@ -18,4 +18,4 @@ permalink: /2025/05/19/santa-ponsa-to-palma-de-mallorca/
 
 Cast off from Santa Ponsa bound for Palma de Mallorca — a modest half-day's sail, 17 nautical miles at an average of 2.6 knots. Wind 1–9 kn from the S, gusting to 27 kn. It veered from ESE to SW. Hendrik joined the crew in Santa Ponsa for this leg, picked up by dinghy, before we sailed around the western tip of Mallorca and into the bay of Palma. Landed a guest berth at the Real Club Náutico de Palma — reasonably priced, and the facilities were great. Also picked up a new (used) dinghy here, our old one having entered a state of rapid unscheduled self-disassembly.
 
-![Track from Santa Ponsa to Palma de Mallorca](/img/tracks/trip16-santa-ponsa-to-palma-de-mallorca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Santa Ponsa to Palma de Mallorca: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip16-santa-ponsa-to-palma-de-mallorca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

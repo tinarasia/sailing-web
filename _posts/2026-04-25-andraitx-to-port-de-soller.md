@@ -18,9 +18,9 @@ permalink: /2026/04/25/andraitx-to-port-de-soller/
 
 Andraitx to Port de Sóller: a full day underway, 26 nautical miles at an average of 2.9 knots. Wind 3–8 kn from the NNW, gusting to 11 kn. Had to motor most of the way — the wind never really showed up. Got some very nice aerial shots of the boat with the DJI Neo drone along the way.
 
-![Track from Andraitx to Port de Sóller](/img/tracks/trip02-andraitx-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Andraitx to Port de Sóller: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip02-andraitx-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 
 
-![Approaching Port de Sóller](/img/photos/leg02-port-de-soller-anflug-drone-1.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+![Aerial view of Tinarasia under sail, mainsail and headsail up, approaching a mountainous coastline under a partly cloudy sky](/img/photos/leg02-port-de-soller-anflug-drone-1.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
-![Approaching Port de Sóller](/img/photos/leg02-port-de-soller-anflug-drone-2.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+![Aerial view looking down onto Tinarasia's deck under sail, showing three crew in the cockpit and the solar arch over the stern](/img/photos/leg02-port-de-soller-anflug-drone-2.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

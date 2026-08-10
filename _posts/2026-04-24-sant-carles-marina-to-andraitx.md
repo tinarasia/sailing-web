@@ -18,11 +18,11 @@ permalink: /2026/04/24/sant-carles-marina-to-andraitx/
 
 Aboard for this first passage: Tobi, and his longtime friends Bernhard and Martin. Departed Sant Carles Marina for Andraitx, an overnight passage of roughly 1.7 days covering 120 nautical miles at 3.0 knots average. Wind 3–19 kn from the ENE, gusting to 25 kn. It backed from S to E. Seas up to 1.8m. Current up to 0.5 kn setting SW. This was the season's first passage after an extensive refit break in the boatyard at Sant Carles Marina: a solar arch with 3×240 Wp of panels feeding the 48V main battery bank, finishing off the galley rebuild after going fully electric with an induction stovetop and a combined microwave/grill/oven, a full sandblast and recoat of the underwater hull (five coats of International Interprotect primer, three coats of Cruiser 250 antifouling), and a last-minute mast repair as the finishing touch. The passage itself brought considerably worse conditions than the forecast 15–18 knots in the first half, including St. Elmo's fire on the VHF antenna during an approaching thunderstorm — and two of the three aboard got seasick. Arrived in Andraitx early in the morning and spent a day resting up.
 
-![Track from Sant Carles Marina to Andraitx](/img/tracks/trip01-sant-carles-marina-to-andraitx.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Sant Carles Marina to Andraitx: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip01-sant-carles-marina-to-andraitx.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 
 
-![Tinarasia on the hard during the winter refit](/img/photos/vorbereitung-refit-bootslager.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+![Tinarasia hauled out on stands in the boatyard, her hull sanded bare with fresh blue antifouling on the bottom, masts and rigging silhouetted against a dusky sky](/img/photos/vorbereitung-refit-bootslager.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
-![Motoring out of Sant Carles Marina](/img/photos/leg01-sant-carles-marina-auslaufen.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+![Tinarasia motoring away under bare poles across flat green-blue water, a low coastal town and hills in the background, seen from another boat](/img/photos/leg01-sant-carles-marina-auslaufen.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
-![At anchor in Port d'Andratx](/img/photos/leg01-port-dandratx-hafen.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+![View across the anchorage at Port d'Andratx: a few sailboats at anchor, a small red lighthouse on the breakwater, and a hillside covered in white villas, with an inflatable dinghy beached in the foreground](/img/photos/leg01-port-dandratx-hafen.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

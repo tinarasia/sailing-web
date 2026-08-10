@@ -18,4 +18,4 @@ permalink: /2025/05/27/portocristo-to-cala-ratjada/
 
 Slipped the lines at Portocristo and pointed the bow toward Cala Ratjada, a modest half-day's sail covering 14 nautical miles at an average of 2.4 knots. Wind 5–7 kn from the ESE, gusting to 17 kn. It veered from E to SE. The transit berths in the communal harbor sit directly across the water from bars and clubs blasting bad party music all night — not a fan.
 
-![Track from Portocristo to Cala Ratjada](/img/tracks/trip20-portocristo-to-cala-ratjada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Portocristo to Cala Ratjada: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip20-portocristo-to-cala-ratjada.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
