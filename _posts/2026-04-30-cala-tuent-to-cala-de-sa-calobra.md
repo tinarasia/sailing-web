@@ -19,3 +19,6 @@ permalink: /2026/04/30/cala-tuent-to-cala-de-sa-calobra/
 Cast off from Cala Tuent bound for Cala de Sa Calobra — a short hop, 2 nautical miles at an average of 2.6 knots. Wind 4 kn from the N, gusting to 13 kn. The beach here is narrow, no more than 40m or so, but behind it the Torrent de Pareis — a giant flood canyon — opens up to an absolutely breathtaking view. Anchored on a very gravelly bottom and nearly dragged overnight when the wind started funneling out of the torrent.
 
 ![Track from Cala Tuent to Cala de Sa Calobra](/img/tracks/trip04-cala-tuent-to-cala-de-sa-calobra.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+![Cala de Sa Calobra](/img/photos/leg04-cala-de-sa-calobra.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

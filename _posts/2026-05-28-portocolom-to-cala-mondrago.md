@@ -19,3 +19,6 @@ permalink: /2026/05/28/portocolom-to-cala-mondrago/
 Departed Portocolom for Cala Mondragó, a modest half-day's sail covering 7 nautical miles at 1.8 knots average. Wind 6–9 kn from the SSW, gusting to 20 kn. Anna, J, E, and Björn left for the airport that morning while the boat was still in Portocolom, so this was Tobi's first solo leg of the season. Originally wanted to go to Portopetro, but it didn't look very inviting, so continued on to Cala Mondragó instead.
 
 ![Track from Portocolom to Cala Mondragó](/img/tracks/trip08-portocolom-to-cala-mondrago.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+![At anchor in Cala Mondragó](/img/photos/leg21-cala-mondrago.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

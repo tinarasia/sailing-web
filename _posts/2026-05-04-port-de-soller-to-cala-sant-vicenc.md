@@ -19,3 +19,6 @@ permalink: /2026/05/04/port-de-soller-to-cala-sant-vicenc/
 Departed Port de Sóller for Cala Sant Vicenç, a full day underway covering 21 nautical miles at 2.5 knots average. Wind 1–6 kn from the SW, gusting to 23 kn. About 3 mm of rain fell along the way. Jofijaan left the boat in Port de Sóller before this leg. Cala Sant Vicenç had a very nice, clean beach, though it was otherwise firmly on the tourist trail.
 
 ![Track from Port de Sóller to Cala Sant Vicenç](/img/tracks/trip06-port-de-soller-to-cala-sant-vicenc.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+![Cala Sant Vicenç](/img/photos/leg06-cala-sant-vicenc.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

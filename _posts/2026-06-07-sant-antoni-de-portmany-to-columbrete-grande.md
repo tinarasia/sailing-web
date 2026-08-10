@@ -19,3 +19,6 @@ permalink: /2026/06/07/sant-antoni-de-portmany-to-columbrete-grande/
 Departed Sant Antoni de Portmany for Columbrete Grande, an overnight passage of roughly 1.1 days covering 70 nautical miles at 2.7 knots average. Wind 2–14 kn from the E, gusting to 18 kn. It backed from SE to ENE. Current up to 1.1 kn setting W. Uneventful crossing, took shifts sleeping. Arrival was a bit scary, with strong gusts blowing directly into the crater bay — decided to pick up a mooring outside the rim instead of anchoring inside.
 
 ![Track from Sant Antoni de Portmany to Columbrete Grande](/img/tracks/trip17-sant-antoni-de-portmany-to-columbrete-grande.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+![Approaching Columbrete Grande](/img/photos/leg29-anflug-columbrete-grande.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

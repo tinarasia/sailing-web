@@ -19,3 +19,6 @@ permalink: /2026/05/26/porto-cristo-to-portocolom/
 Left Porto Cristo and made for Portocolom, a short hop covering 9 nautical miles at an average of 2.7 knots. Wind 9–10 kn from the E, gusting to 21 kn. While in Porto Cristo we went to see the Cuevas dels Hams (fish hook caves), which were a bit disappointing — the whole family liked the Cuevas del Drach (dragon caves), visited last year, better.
 
 ![Track from Porto Cristo to Portocolom](/img/tracks/trip07-porto-cristo-to-portocolom.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+![Approaching Portocolom](/img/photos/leg20-portocristo-portocolom.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

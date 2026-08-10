@@ -19,3 +19,8 @@ permalink: /2026/06/02/palma-de-mallorca-to-cala-portals/
 Palma de Mallorca to Cala Portals: a modest half-day's sail, 10 nautical miles at an average of 1.6 knots. Wind 5–6 kn from the SW, gusting to 16 kn. It veered from SSE to WNW. Current up to 0.7 kn setting ESE. On the way back toward the mainland, decided not to make the hop to Ibiza in nasty weather, and instead waited it out in this forked bay with little caves in the cliffs.
 
 ![Track from Palma de Mallorca to Cala Portals](/img/tracks/trip13-palma-de-mallorca-to-cala-portals.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+![Arriving at Portals Vells](/img/photos/leg26-portals-vells-ankunft.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+
+![Evening at Portals Vells](/img/photos/leg26-portals-vells-abend.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

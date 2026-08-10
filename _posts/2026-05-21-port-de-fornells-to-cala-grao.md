@@ -19,3 +19,6 @@ permalink: /2026/05/21/port-de-fornells-to-cala-grao/
 Set a course from Port de Fornells to Cala Grao: a short hop, 12 nautical miles at an average of 3.1 knots. Wind 5–6 kn from the NNE, gusting to 15 kn. Current up to 0.5 kn setting ESE. Behind the anchorage, towards the main beach, there's a very large flat area that's only ankle- to knee-deep. Tobi and J went exploring the beach on one of the bigger islands in the area.
 
 ![Track from Port de Fornells to Cala Grao](/img/tracks/trip03-port-de-fornells-to-cala-grao.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+![Flying the spinnaker](/img/photos/leg16-spinnaker.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}

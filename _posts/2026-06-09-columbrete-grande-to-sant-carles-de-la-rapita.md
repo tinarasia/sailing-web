@@ -19,3 +19,8 @@ permalink: /2026/06/09/columbrete-grande-to-sant-carles-de-la-rapita/
 Columbrete Grande to Sant Carles de la Ràpita: a long day that ran past sunset, 50 nautical miles at an average of 3.3 knots. Wind 7–14 kn from the ENE, gusting to 18 kn. It veered from NNE to E. Seas up to 0.9m. This leg had it all — long waves, short waves, lots of wind, almost no wind. Towards the end we motored for quite a few hours. The destination was the Club Nàutic de la Ràpita, where the boat has a year-round berth for now while waiting on the next round of refit work.
 
 ![Track from Columbrete Grande to Sant Carles de la Ràpita](/img/tracks/trip19-columbrete-grande-to-sant-carles-de-la-rapita.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+![Final approach to the Spanish mainland](/img/photos/leg31-anflug-festland.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+
+![Tinarasia's berth at Club Nàutic de la Ràpita](/img/photos/club-nautic-la-rapita-liegeplatz.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
