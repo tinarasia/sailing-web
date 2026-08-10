@@ -15,6 +15,7 @@ permalink: /2026/06/07/sant-antoni-de-portmany-to-columbrete-grande/
 - Distance: 69.8 nm
 - Average speed: 2.7 kn
 - Crew: Tobi, Anatol
+- Time/distance more than 12 nm offshore: 13.2 h / 36.1 nm
 
 Departed Sant Antoni de Portmany for Columbrete Grande, an overnight passage of roughly 1.1 days covering 70 nautical miles at 2.7 knots average. Wind 2–14 kn from the E, gusting to 18 kn. It backed from SE to ENE. Current up to 1.1 kn setting W. Quiet crossing, took shifts sleeping — the one exception was a pod of about 20 dolphins that showed up at dawn and kept us company for a good 20 minutes. Arrival was a bit scary, with strong gusts blowing directly into the crater bay — decided to pick up a mooring outside the rim instead of anchoring inside.
 
