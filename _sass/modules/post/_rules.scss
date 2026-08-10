@@ -253,4 +253,48 @@
             &:hover { color: $hover-color; }
         }
     }
+
+    .post-nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        max-width: 596px;
+        margin: 0 auto 20px;
+        padding: 12px 4px;
+        border-top: 1px solid $border-color;
+        border-bottom: 1px solid $border-color;
+        font-family: $caption-font-family;
+        letter-spacing: 0.02em;
+
+        & + .post {
+            margin-top: 20px;
+        }
+    }
+
+    .post + .post-nav {
+        margin-top: -10px;
+    }
+
+    .post-nav-prev,
+    .post-nav-next {
+        flex: 1 1 50%;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    .post-nav-next {
+        text-align: right;
+    }
+
+    .post-nav-prev a,
+    .post-nav-next a {
+        color: $legal-color;
+
+        &:hover { color: $hover-color; }
+    }
+
+    .post-nav-arrow {
+        position: relative;
+        top: 1px;
+    }
 }
