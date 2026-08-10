@@ -16,6 +16,6 @@ permalink: /2026/05/17/cala-ratjada-to-cala-degollador/
 - Average speed: 3.1 kn
 - Crew: Tobi, Anna, J, E, Björn
 
-Underway from Cala Ratjada toward Cala Degollador, a modest half-day's sail — 25 nautical miles at an average of 3.1 knots. Wind 9–12 kn from the S, gusting to 15 kn. Seas up to 0.7m. Björn joined the crew in Cala Ratjada before this leg. A pleasant crossing to Menorca, ending with anchor down for the night in Cala Degollador.
+Underway from Cala Ratjada toward Cala Degollador, a modest half-day's sail — 25 nautical miles at an average of 3.1 knots. Wind 9–12 kn from the S, gusting to 15 kn. Seas up to 0.7m. Björn, a friend of Anna's from university, joined the crew in Cala Ratjada before this leg. A pleasant crossing to Menorca, ending with anchor down for the night in Cala Degollador.
 
 ![Track from Cala Ratjada to Cala Degollador](/img/tracks/trip13-cala-ratjada-to-cala-degollador.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
