@@ -69,7 +69,7 @@ Portocolom marked the end of the family leg of the season: Anna, Jo, Eli, and Bj
 
 ![Watercolor-style map of the route from Portocolom to Palma de Mallorca: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/overview-portocolom-to-palma-de-mallorca.png){: width="320" style="display:block; margin-left:auto; margin-right:auto"}
 
-The solo stretch down through Cala Mondragó, Platja des Carbó, and around toward Palma stuck to short daylight hops by design, no night watches required, closing with the perennially exciting business of threading into Palma's enormous harbor and a warm welcome at the Real Club Náutico de Palma, where Anatol came aboard as reinforcement for the run back to the mainland.
+The solo stretch down through Cala Mondragó, Platja des Carbó, and around toward Palma stuck to short daylight hops by design, no night watches required. A stopover at the breakwater of Sa Ràpita brought an unexpected reunion with Anja and Denny, first met back in the "other" La Ràpita on the mainland, before the stretch closed with the perennially exciting business of threading into Palma's enormous harbor and a warm welcome at the Real Club Náutico de Palma, where Anatol came aboard as reinforcement for the run back to the mainland.
 
 ![View out through the mouth of a dark sea cave toward a sailboat anchored in a sunlit bay lined with pine trees](/img/photos/leg21-cala-mondrago.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
