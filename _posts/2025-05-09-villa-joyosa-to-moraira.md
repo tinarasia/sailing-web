@@ -14,7 +14,7 @@ permalink: /2025/05/09/villa-joyosa-to-moraira/
 - Duration: 7.0 h
 - Distance: 21.2 nm
 - Average speed: 3.0 kn
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Weighed anchor at Villa Joyosa, bound for Moraira — a modest half-day's sail covering 21 nautical miles at an average of 3.0 knots. Wind 4–6 kn from the SSE, gusting to 16 kn. Seas up to 0.6m. Current up to 0.5 kn setting NNE. The anchorage in the bay of Moraira was a bit rolly, but the transit berth at Club Náutic more than made up for it.
 

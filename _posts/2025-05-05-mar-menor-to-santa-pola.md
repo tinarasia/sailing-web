@@ -14,7 +14,7 @@ permalink: /2025/05/05/mar-menor-to-santa-pola/
 - Duration: 7.3 h
 - Distance: 31.5 nm
 - Average speed: 4.3 kn
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Departed Mar Menor for Santa Pola, a modest half-day's sail covering 32 nautical miles at 4.3 knots average. Wind 8–11 kn from the WSW, gusting to 24 kn. It backed from WNW to SSW. Seas up to 0.6m. Finally caught up with Siggi and Kati on S/V Kasibu here, to hand off a package we'd been carrying since Almerimar, and finally tracked down the proper odor-proof hose to fix the toilet.
 

@@ -14,7 +14,7 @@ permalink: /2025/05/19/santa-ponsa-to-palma-de-mallorca/
 - Duration: 6.7 h
 - Distance: 17.3 nm
 - Average speed: 2.6 kn
-- Crew: Tobi, Anna, J, E, Hendrik
+- Crew: Tobi, Anna, Jo, Eli, Hendrik
 
 Cast off from Santa Ponsa bound for Palma de Mallorca — a modest half-day's sail, 17 nautical miles at an average of 2.6 knots. Wind 1–9 kn from the S, gusting to 27 kn. It veered from ESE to SW. Hendrik joined the crew in Santa Ponsa for this leg, picked up by dinghy, before we sailed around the western tip of Mallorca and into the bay of Palma. Landed a guest berth at the Real Club Náutico de Palma — reasonably priced, and the facilities were great. Also picked up a new (used) dinghy here, our old one having entered a state of rapid unscheduled self-disassembly.
 

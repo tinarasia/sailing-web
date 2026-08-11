@@ -16,7 +16,7 @@ permalink: /2026/05/04/port-de-soller-to-cala-sant-vicenc/
 - Average speed: 2.5 kn
 - Hours & Distance under Motor: 0.7 h / 2.0 nm
 - Miles under Sail: 18.8 nm
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Departed Port de Sóller for Cala Sant Vicenç, a full day underway covering 21 nautical miles at 2.5 knots average. Wind 1–6 kn from the SW, gusting to 23 kn. About 3 mm of rain fell along the way, with scattered lightning along the north coast. Jofijaan left the boat in Port de Sóller before this leg. Cala Sant Vicenç had a very nice, clean beach, though it was otherwise firmly on the tourist trail.
 

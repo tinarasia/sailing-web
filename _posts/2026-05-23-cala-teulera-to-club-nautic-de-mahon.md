@@ -16,7 +16,7 @@ permalink: /2026/05/23/cala-teulera-to-club-nautic-de-mahon/
 - Average speed: 2.7 kn
 - Hours & Distance under Motor: 0.5 h / 1.3 nm
 - Miles under Sail: 1.0 nm
-- Crew: Tobi, Anna, J, E, Björn
+- Crew: Tobi, Anna, Jo, Eli, Björn
 
 Weighed anchor at Cala Teulera, bound for Club Nàutic de Mahón — a short hop covering 2 nautical miles at an average of 2.7 knots. Wind 2 kn from the NE, gusting to 9 kn. This was really just the move from the anchorage into the harbor proper, where we tied up in a guest berth at the club.
 

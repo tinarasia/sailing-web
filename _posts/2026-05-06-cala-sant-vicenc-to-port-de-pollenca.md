@@ -16,7 +16,7 @@ permalink: /2026/05/06/cala-sant-vicenc-to-port-de-pollenca/
 - Average speed: 2.5 kn
 - Hours & Distance under Motor: 2.6 h / 5.3 nm
 - Miles under Sail: 15.5 nm
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Left Cala Sant Vicenç and made for Port de Pollença, a full day underway covering 21 nautical miles at an average of 2.5 knots. Wind 3–7 kn from the ESE, gusting to 17 kn. It veered from NE to SSE. About 1 mm of rain fell along the way, with a few lightning strikes near the coast. Port de Pollença again — familiar territory after spending so much time there the year before. Met the crew of S/V Greta from Potsdam, another Trans-Ocean e.V. boat, and ran into our first Luxembourgish-flagged boat, Melusina One, with Vicky and Laurent aboard. A few beach breaks, one soggy dinghy ride back to the boat in pouring rain, and a great time overall.
 

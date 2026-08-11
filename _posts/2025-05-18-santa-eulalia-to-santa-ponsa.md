@@ -14,7 +14,7 @@ permalink: /2025/05/18/santa-eulalia-to-santa-ponsa/
 - Duration: 15.7 h
 - Distance: 56.0 nm
 - Average speed: 3.6 kn
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Departed Santa Eulalia for Santa Ponsa, a long day that ran past sunset covering 56 nautical miles at 3.6 knots average. Wind 7–10 kn from the SSE, gusting to 13 kn. Seas up to 0.6m. Another arrival after dark, dropping anchor in Santa Ponsa well into the night.
 

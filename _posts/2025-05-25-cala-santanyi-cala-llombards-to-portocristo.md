@@ -14,7 +14,7 @@ permalink: /2025/05/25/cala-santanyi-cala-llombards-to-portocristo/
 - Duration: 4.7 h
 - Distance: 17.6 nm
 - Average speed: 3.8 kn
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Left Cala Santanyí / Cala Llombards and made for Portocristo, a modest half-day's sail covering 18 nautical miles at an average of 3.8 knots. Wind 11–12 kn from the SW, gusting to 26 kn. Back to a crew of four after Hendrik's departure. In Portocristo we visited the Cuevas del Drach, an impressive network of underground caves hung with stalagmites and stalactites, and met Bine and Peter aboard S/V JOY.
 

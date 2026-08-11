@@ -16,7 +16,7 @@ permalink: /2026/04/30/cala-tuent-to-cala-de-sa-calobra/
 - Average speed: 2.6 kn
 - Hours & Distance under Motor: 0.5 h / 1.2 nm
 - Miles under Sail: 0.9 nm
-- Crew: Tobi, Anna, J, E, Jofijaan
+- Crew: Tobi, Anna, Jo, Eli, Jofijaan
 
 Cast off from Cala Tuent bound for Cala de Sa Calobra — a short hop, 2 nautical miles at an average of 2.6 knots. Wind 4 kn from the N, gusting to 13 kn. The beach here is narrow, no more than 40m or so, but behind it the Torrent de Pareis — a giant flood canyon — opens up to an absolutely breathtaking view. Anchored on a very gravelly bottom and nearly dragged overnight when the wind started funneling out of the torrent.
 

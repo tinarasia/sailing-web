@@ -16,7 +16,7 @@ permalink: /2026/05/01/cala-de-sa-calobra-to-port-de-soller/
 - Average speed: 3.4 kn
 - Hours & Distance under Motor: 0.6 h / 0.9 nm
 - Miles under Sail: 7.0 nm
-- Crew: Tobi, Anna, J, E, Jofijaan
+- Crew: Tobi, Anna, Jo, Eli, Jofijaan
 
 Underway from Cala de Sa Calobra toward Port de Sóller, a short hop — 8 nautical miles at an average of 3.4 knots. Wind 7–8 kn from the ENE, gusting to 24 kn. Seas up to 0.7m. Unfavorable weather ahead sent us back into Port de Sóller instead of continuing east. The kids loved the ice cream shops and the little train that runs from here up to the town of Sóller. Jofijaan left the boat here and flew home.
 

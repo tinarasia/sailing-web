@@ -16,7 +16,7 @@ permalink: /2026/05/10/port-de-pollenca-to-bonaire-mallorca/
 - Average speed: 2.9 kn
 - Hours & Distance under Motor: 0.5 h / 1.5 nm
 - Miles under Sail: 1.8 nm
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Left Port de Pollença and made for Bonaire (Mallorca), a short hop covering 3 nautical miles at an average of 2.9 knots. Wind 10 kn from the W, gusting to 24 kn. Seas up to 0.6m. A very speedy leg, sails set on a beam reach the whole way. Bonaire itself, on the other hand, may be the most boring place imaginable — we couldn't even find a single open shop, so we left again.
 

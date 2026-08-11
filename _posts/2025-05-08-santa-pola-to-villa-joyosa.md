@@ -14,7 +14,7 @@ permalink: /2025/05/08/santa-pola-to-villa-joyosa/
 - Duration: 6.9 h
 - Distance: 26.8 nm
 - Average speed: 3.9 kn
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Cast off from Santa Pola bound for Villa Joyosa — a modest half-day's sail, 27 nautical miles at an average of 3.9 knots. Wind 3–9 kn from the SE, gusting to 22 kn. Check-in at Club Náutico de Villajoyosa was a bizarrely bureaucratic affair, with the staff insisting on a bank statement proving insurance premiums had actually been paid. Ran into Stephan, a fellow member of the SC Gothia sailing club back in Berlin, on the pontoon.
 

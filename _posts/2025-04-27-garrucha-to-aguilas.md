@@ -14,7 +14,7 @@ permalink: /2025/04/27/garrucha-to-aguilas/
 - Duration: 8.6 h
 - Distance: 22.5 nm
 - Average speed: 2.6 kn
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Cast off from Garrucha bound for Águilas — a full day underway, 22 nautical miles at an average of 2.6 knots. Wind 6–10 kn from the E, gusting to 20 kn. It backed from SE to ENE. Nice sailing throughout, capped off with a quiet anchorage in the bay of Águilas.
 

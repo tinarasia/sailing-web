@@ -14,7 +14,7 @@ permalink: /2025/05/29/alcudia-to-port-de-pollenca/
 - Duration: 5.8 h
 - Distance: 15.0 nm
 - Average speed: 2.6 kn
-- Crew: Tobi, Anna, J, E
+- Crew: Tobi, Anna, Jo, Eli
 
 Departed Alcúdia for Port de Pollença, a modest half-day's sail covering 15 nautical miles at 2.6 knots average. Wind 3–5 kn from the NE, gusting to 13 kn. It veered from N to ESE. Loved Port de Pollença — a very nice communal harbor, great playgrounds and beaches for the kids, and a huge anchorage outside the breakwater. Every morning the local air force base's firefighting waterplane did its rounds overhead. Also joined the Young Cruisers Association's "Floatchella Mallorca" event here alongside half a dozen other boats, good fun for everybody.
 

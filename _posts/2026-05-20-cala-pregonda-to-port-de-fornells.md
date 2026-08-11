@@ -16,7 +16,7 @@ permalink: /2026/05/20/cala-pregonda-to-port-de-fornells/
 - Average speed: 2.6 kn
 - Hours & Distance under Motor: 0.4 h / 1.0 nm
 - Miles under Sail: 7.3 nm
-- Crew: Tobi, Anna, J, E, Björn
+- Crew: Tobi, Anna, Jo, Eli, Björn
 
 Cast off from Cala Pregonda bound for Port de Fornells — a short hop, 8 nautical miles at an average of 2.6 knots. Wind 3–5 kn from the ESE, gusting to 14 kn. The communal harbor in Fornells was very clean, but the whole town gave off the impression of having been built solely for tourism.
 
