@@ -1,0 +1,38 @@
+---
+layout: post
+title: "spring 2025: a season in review"
+date: 2025-06-09 20:00:00 +0000
+categories: ["Spring 2025"]
+location: "Sant Carles Marina"
+permalink: /2025/06/09/spring-2025-a-season-in-review/
+---
+
+Seven weeks ago, S/V Tinarasia slipped her lines in Almerímar, on the Costa del Sol, with Tobi, Anna, and two small kids aboard — J not yet three, E barely walking — and pointed her bow east. Tonight she's back in her home berth at Sant Carles Marina, on the Ebro Delta, with a long refit list waiting and the crew roster having turned over twice along the way. In between: a hand-steered overnight passage, three nights sheltering from weather in a cove with exactly two mooring balls, an overnight crossing to the Balearics that ended by moonlight, a stolen outboard, a nature reserve with a checkered military history, and a fair amount of very good anchoring.
+
+## A rough start off the Costa del Sol
+
+The season opened badly, in the specific way that sailing seasons like to open badly: the autopilot died within hours of leaving Almerímar, and the whole overnight leg to Los Escullos had to be hand-steered. It was worth it — the anchorage at Los Escullos, in front of an old fort, was a fine reward at the end of a long night. From there the coast turned into a string of short, occasionally trying hops. A "marina" at Carboneras turned out to be a rickety pier with dubious electricity and an eye-watering fifty euros a night, in the low season no less. A gypsum shipping facility at Garrucha kept the whole boat coated in fine white dust between excellent seafood dinners at the harborside restaurants.
+
+Then the weather actually turned nasty. Running from building conditions off Águilas, Tinarasia found Cala Cerrada — a tiny, well-protected notch in the coast with exactly two mooring balls — and ended up staying three nights while the sea outside built into something nobody wanted to cross. On the second day, with J ashore spotting wildflowers and Tobi on photography duty for Anna, the generator got its first real workout of the season. A first attempt to break out toward Cartagena the next morning lasted about an hour: the moment the bow cleared the cove, the sea state outside made the decision for them, and it was back to the mooring ball. Two days later, with the wind finally down, the actual crossing to Cartagena took less than six hours.
+
+## Up the coast, port by port
+
+Cartagena was a high point early on — an impressive harbor entrance, a proper marina at Yacht Port Cartagena, and a meeting with George and Sinead aboard S/V Muhuhu, another fully electric sailboat and, as it turned out, kindred spirits. From there the coast turned into a string of half-day hops: through the narrow, shallow canal into the edge of the Mar Menor, with a bridge that only lifts once an hour, and conditions building fast enough by the time they reached it that the plan changed to tying up at Puerto Deportivo Tomás Maestre instead of pushing into the lagoon itself. On to Santa Pola, where a package that had been riding along since Almerímar finally reached its owners, Siggi and Kati aboard S/V Kasibu, and the boat's long-suffering toilet finally got the proper odor-proof hose it had been needing for weeks. Villajoyosa delivered a small dose of Spanish bureaucracy — a marina office insisting on a bank statement proving insurance premiums had actually cleared — and, more happily, a chance encounter with Stephan from SC Gothia, Tobi's own sailing club back in Berlin, tied up two boats down. Moraira rounded out the run with a slightly rolly anchorage redeemed by a good transit berth at the Club Náutic.
+
+## Crossing to the Balearics
+
+The crossing itself came next, an overnight run from Moraira that ended in the small hours with Tinarasia dropping anchor off S'Espalmador by moonlight. Morning revealed one of the best anchorages of the whole season: a great white-sand beach, water the color you only half-believe from the photos, and a day good enough that nobody was in a hurry to leave. Tobi and J took the dinghy across to Formentera for groceries and, memorably, a replacement VHF antenna. Threading the sandbanks between Ibiza and Formentera into Cala Talamanca took some care and delivered a horribly rolly night at anchor for the trouble — Siggi and Kati, anchored nearby, had it worse, waking up to find their outboard stolen straight off the stern pushpit. Santa Eulalia brought dolphins on the approach and a brief, undignified grounding in a shallow patch of the marina, worked free without drama; the town itself lived up to every Ibiza cliché, bars and restaurant prices included.
+
+## Mallorca, a change of crew, and Cabrera
+
+An overnight passage brought the boat to Mallorca and an arrival at Santa Ponsa well after dark, followed by a short hop around the island's western tip into Palma. Hendrik joined the crew here, ferried out to the boat by dinghy, and the old dinghy itself was retired — it had entered what the logbook dryly called "a state of rapid unscheduled self-disassembly" — in favor of a newly acquired used one. From Palma, Cabrera: a nature reserve with a cruising-permit requirement, a paid mooring reservation, a checkered military history, and clear enough night skies that Hendrik went ashore after dark to photograph the Milky Way. Cala Santanyí offered an anchorage wedged dramatically between cliffs sixty meters apart before Hendrik's own passage ended and the family carried on alone to Cala Llombards, exploring sea caves by dinghy in the afternoon light.
+
+Portocristo brought the Cuevas del Drach — an underground cave system strung with stalactites and stalagmites — and a meeting with Bine and Peter aboard S/V JOY. Cala Ratjada's communal harbor turned out to sit directly across the water from a strip of bars blasting music most of the night, not a fan favorite. Alcúdia and Port de Pollença followed at a gentler pace: a good anchorage outside the breakwater at Alcúdia, and at Pollença a small daily ritual of watching the local air base's firefighting seaplane make its rounds overhead, excellent playgrounds for the kids, and a spontaneous "Floatchella Mallorca" gathering with half a dozen other boats from the Young Cruisers Association.
+
+## The last stretch, singlehanded-ish, back to the mainland
+
+Port de Pollença also marked a turning point in the crew roster: Anna, J, and E flew home, and Riot came aboard to sail on with Tobi for the final stretch. The two of them took the boat back along Mallorca's north coast — Cala Castell for an overnight anchorage, then Port de Sóller, the only truly protected harbor on that whole coastline and the natural jumping-off point for the crossing home. That crossing, an overnight passage of roughly forty hours and 117 nautical miles, brought some genuinely significant waves for parts of the way but delivered the boat safely to an anchorage off Punta de la Banya, and from there into Sant Carles Marina this morning. A short, final hop this afternoon moved Tinarasia the last mile and a half into her winter berth.
+
+## What's next
+
+The season closes here, at anchor no longer, back where a very different version of this same boat set off seven weeks ago. There's no shortage of items on the refit list already taped up in the nav station — the autopilot chief among them — and Tinarasia will be hauled out shortly for a long winter ashore. What she comes back as remains to be seen, but the plan on the table involves a good deal more solar, a fully electric galley, and a hull that's earned a proper look underneath the waterline. Spring 2026 is a long way off yet, but the boat that returns to the water will have had a lot more done to her than a fresh coat of antifouling.
