@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "palma de mallorca - puerto cabrera"
+title: "palma de mallorca - port de cabrera"
 date: 2025-05-21 19:31:20 +0000
 categories: ["Spring 2025"]
-location: "Puerto Cabrera"
+location: "Port de Cabrera"
 permalink: /2025/05/21/palma-de-mallorca-to-puerto-cabrera/
 ---
 
 **Logbook**
 
 - Departure: Palma de Mallorca (39.5607, 2.6320), Wednesday, May 21, 2025 at 09:15 UTC
-- Arrival: Puerto Cabrera (39.1473, 2.9325), Wednesday, May 21, 2025 at 19:31 UTC
+- Arrival: Port de Cabrera (39.1473, 2.9325), Wednesday, May 21, 2025 at 19:31 UTC
 - Duration: 10.3 h
 - Distance: 34.7 nm
 - Average speed: 3.4 kn
 - Crew: Tobi, Anna, Jo, Eli, Hendrik
 
-Set a course from Palma de Mallorca to Puerto Cabrera: a full day underway, 35 nautical miles at an average of 3.4 knots. Needed a cruising permit before setting off, plus a paid reservation for a mooring buoy in the natural harbor — Cabrera is the main island of the Islas Cabreras, a nature reserve with a checkered history. Spent a couple of beach days there; Hendrik went ashore at night to photograph the Milky Way.
+Set a course from Palma de Mallorca to Port de Cabrera: a full day underway, 35 nautical miles at an average of 3.4 knots. Needed a cruising permit before setting off, plus a paid reservation for a mooring buoy in the natural harbor — Cabrera is the main island of the Illes de Cabrera, a nature reserve with a checkered history. Spent a couple of beach days there; Hendrik went ashore at night to photograph the Milky Way.
 
-![Watercolor-style map of the route from Palma de Mallorca to Puerto Cabrera: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip17-palma-de-mallorca-to-puerto-cabrera.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
+![Watercolor-style map of the route from Palma de Mallorca to Port de Cabrera: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip17-palma-de-mallorca-to-puerto-cabrera.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
