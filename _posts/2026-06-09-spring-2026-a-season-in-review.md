@@ -39,9 +39,9 @@ The weather calmed considerably after that, and the character of the season chan
 
 ![View down a white staircase past modern villas to a small rocky cove with a sailboat anchored offshore](/img/photos/leg06-cala-sant-vicenc.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
-Cap Formentor delivered the season's signature piece of coastal seamanship, rounding the headland against wind and current that had clear opinions about the matter, on a day that also brought the first meeting with the crew of S/V Greta, a fellow Trans-Ocean e.V. boat out of Potsdam, and the first Luxembourg-flagged yacht of the trip, Melusina One, with Vicky and Laurent aboard.
+Cap Formentor delivered the season's signature piece of coastal seamanship, rounding the headland against wind and current that had clear opinions about the matter, on a day that also brought the first meeting with the crew of S/V Greta, a fellow Trans-Ocean e.V. boat out of Potsdam, and the first Luxembourg-flagged yacht of the trip, Melusina One, with Vicky and Laurent aboard — still tied up in the harbor at the time.
 
-![Aerial view of Tinarasia rafted up alongside another sailboat, with several crew sitting in the cockpits of both boats](/img/photos/leg08-port-de-pollenca-drone-2.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+![Aerial view of Tinarasia rafted up alongside S/V Greta, with several crew sitting in the cockpits of both boats](/img/photos/leg08-port-de-pollenca-drone-2.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
 Björn, a friend of Anna's from university, joined the boat in Cala Ratjada, rounding the crew out to five for the crossing to Menorca.
 

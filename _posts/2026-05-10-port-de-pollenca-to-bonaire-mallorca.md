@@ -25,4 +25,4 @@ Left Port de Pollença and made for Bonaire (Mallorca), a short hop covering 3 n
 
 ![Aerial view of Tinarasia at anchor alone in clear turquoise water](/img/photos/leg08-port-de-pollenca-drone-1.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
-![Aerial view of Tinarasia rafted up alongside another sailboat, with several crew sitting in the cockpits of both boats](/img/photos/leg08-port-de-pollenca-drone-2.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+![Aerial view of Tinarasia rafted up alongside S/V Greta, with several crew sitting in the cockpits of both boats](/img/photos/leg08-port-de-pollenca-drone-2.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
