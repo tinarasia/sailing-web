@@ -7,7 +7,7 @@ location: "Sant Carles de la Ràpita"
 permalink: /2026/06/09/spring-2026-a-season-in-review/
 ---
 
-S/V Tinarasia came out of the water at Sant Carles Marina last summer with a long refit list and went back in this spring a genuinely different boat. Seven weeks and 655.6 nautical miles later, she's tied up at the Club Nàutic de la Ràpita, a handful of miles from where the season began, having covered the Spanish mainland coast, most of Mallorca, all the way around Menorca, a slice of Ibiza, and a genuinely remote volcanic archipelago most sailors have never heard of. Along the way: a thunderstorm nobody forecast, two small kids growing visibly over the course of a season, a pod of twenty dolphins at dawn, and a first proper singlehanded passage for the skipper.
+S/V Tinarasia came out of the water at Sant Carles Marina last summer with a long refit list and went back in this spring a genuinely different boat. Seven weeks and 655.6 nautical miles later, she's tied up at the Club Nàutic de la Ràpita, less than a mile from where the season began, having covered the Spanish mainland coast, most of Mallorca, all the way around Menorca, a slice of Ibiza, and a genuinely remote volcanic archipelago most sailors have never heard of. Along the way: a thunderstorm nobody forecast, two small kids growing visibly over the course of a season, a pod of twenty dolphins at dawn, and a first proper singlehanded passage for the skipper.
 
 ## A winter well spent
 
