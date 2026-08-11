@@ -18,7 +18,7 @@ permalink: /2026/06/05/cala-portinatx-to-sant-antoni-de-portmany/
 - Miles under Sail: 15.8 nm
 - Crew: Tobi, Anatol
 
-Left Cala Portinatx and made for Sant Antoni de Portmany, a modest half-day's sail covering 17 nautical miles at an average of 3.3 knots. Wind 6–9 kn from the ESE, gusting to 22 kn. Seas up to 1.0m. The reception at Marina Es Nàutic in Sant Antoni was great, a marinero named Leo helped us a lot. The town itself was a bit bizarre and very party-oriented.
+Left Cala Portinatx and made for Sant Antoni de Portmany, a modest half-day's sail covering 17 nautical miles at an average of 3.3 knots. Wind 6–9 kn from the ESE, gusting to 22 kn. Seas up to 1.0m. The reception at Marina Es Nàutic in Sant Antoni was great, a marinero named Leo helped us a lot. Shortly after we tied up, Melusina One surprised us by pulling into a berth on the same pontoon. The town itself was a bit bizarre and very party-oriented.
 
 ![Watercolor-style map of the route from Cala Portinatx to Sant Antoni de Portmany: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip16-cala-portinatx-to-sant-antoni-de-portmany.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 

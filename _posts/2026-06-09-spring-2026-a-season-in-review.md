@@ -81,7 +81,7 @@ The last stretch turned into the most demanding sailing of the return leg. Bad w
 
 ![View between two pine trees down to a turquoise bay with anchored boats and a sandy beach crowded with sunbathers](/img/photos/leg27-cala-portinatx-aufenthalt.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
-The arrival, in the dark, meant picking a careful path through a field of unlit mooring buoys before finally reaching the excellent welcome at Marina Es Nàutic, courtesy of a marinero named Leo.
+The arrival, in the dark, meant picking a careful path through a field of unlit mooring buoys before finally reaching the excellent welcome at Marina Es Nàutic, courtesy of a marinero named Leo. Melusina One turned up again shortly after, pulling into a berth on the very same pontoon.
 
 ![A harbor breakwater with a pile of rocks in the foreground and a dense skyline of white apartment buildings behind, under a pastel evening sky](/img/photos/leg28-anflug-sant-antoni.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
