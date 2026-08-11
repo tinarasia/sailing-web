@@ -1,4 +1,5 @@
 _site
+img/tracks/.tile_cache
 .sass-cache
 .jekyll-cache
 .jekyll-metadata

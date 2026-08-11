@@ -7,6 +7,8 @@ location: "Sant Carles de la Ràpita"
 permalink: /2026/06/09/spring-2026-a-season-in-review/
 ---
 
+![Watercolor-style map of the full spring 2026 route: a navy track line looping from the Spanish mainland out to Mallorca, around Menorca, down to Ibiza, and out to the Columbretes and back, with a gold circle marking the start and a dark square marking the end](/img/tracks/overview-season-2026.png){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
+
 S/V Tinarasia came out of the water at Sant Carles Marina last summer with a long refit list and went back in this spring a genuinely different boat. Seven weeks and 655.6 nautical miles later, she's tied up at the Club Nàutic de la Ràpita, less than a mile from where the season began, having covered the Spanish mainland coast, most of Mallorca, all the way around Menorca, a slice of Ibiza, and a genuinely remote volcanic archipelago most sailors have never heard of. Along the way: a thunderstorm nobody forecast, two small kids growing visibly over the course of a season, a pod of twenty dolphins at dawn, and a first proper singlehanded passage for the skipper.
 
 ## A winter well spent
@@ -17,11 +19,15 @@ None of it was for show. Tinarasia's propulsion is fully electric — a Motenerg
 
 ## The roughest weather of the season, on day one
 
+![Watercolor-style map of the route from Sant Carles Marina to Port de Sóller: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/overview-sant-carles-marina-to-port-de-soller.png){: width="320" style="display:block; margin-left:auto; margin-right:auto"}
+
 The new season opened with its toughest test immediately. Departing Sant Carles Marina nonstop for Andratx — at 120 nautical miles and just under forty hours, the longest single leg of the whole trip — the forecast had promised 10 knots of wind, gusting to 15, with waves to a meter. What actually arrived was 20 knots gusting to 25, waves to two meters, and, completely unforecast, a thunderstorm. From late afternoon on, St. Elmo's fire built on the VHF antenna — a static buzz on the radio, and small discharges visible even off the unplugged antenna cable — before the storm itself came up on the port stern quarter four or five hours later, an alarming but genuinely rare thing to witness from a small boat at sea. Two of the three aboard got seasick for their trouble. Andratx, reached in the small hours of the morning, earned its rest day at anchor and its unusually large lunch.
 
 ## Family life aboard, Mallorca and Menorca
 
 The weather calmed considerably after that, and the character of the season changed with it. Anna, Jo, and Eli came aboard in Port de Sóller, and the boat settled into the kind of short, island-hopping rhythm that works for a crew with a three-year-old and a one-year-old: Cala Tuent's pretty little bay, marred only by a day-tripper catamaran that ploughed up the seabed with an oversized anchor on every passenger change; Cala de Sa Calobra's dramatic canyon walls and unsettling gravel holding ground, which cost the crew an anxious night wondering if the anchor would hold against gusts pouring down out of the gorge. Cap Formentor delivered the season's signature piece of coastal seamanship, rounding the headland against wind and current that had clear opinions about the matter, on a day that also brought the first meeting with the crew of S/V Greta, a fellow Trans-Ocean e.V. boat out of Potsdam, and the first Luxembourg-flagged yacht of the trip, Melusina One, with Vicky and Laurent aboard.
+
+![Watercolor-style map of the route from Port de Sóller to Portocolom: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/overview-port-de-soller-to-portocolom.png){: width="320" style="display:block; margin-left:auto; margin-right:auto"}
 
 Menorca followed the same pattern of short hops and long anchorages: Cala Pregonda, an anchorage good enough to earn the season's highest praise — turquoise water, dream-postcard beaches, a scatter of small offshore islets with genuinely strange, almost lunar geology and natural salt pans. Port de Fornells impressed with a well-kept communal harbor attached to a town that felt built purely for tourists. A crossing back toward Mallorca deliberately skipped a planned stop at Cala Ratjada — the forecast, checked carefully in advance, showed barely any wind for most of the route, so rather than break the passage up the crew ran it straight through to Porto Cristo in one long, slow day.
 
@@ -29,9 +35,13 @@ Portocolom marked the end of the family leg of the season: Anna, Jo, Eli, and Bj
 
 ## Solo, then back to two, and the run for home
 
+![Watercolor-style map of the route from Portocolom to Palma de Mallorca: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/overview-portocolom-to-palma-de-mallorca.png){: width="320" style="display:block; margin-left:auto; margin-right:auto"}
+
 The solo stretch down through Cala Mondragó, Platja des Carbó, and around toward Palma stuck to short daylight hops by design, no night watches required, closing with the perennially exciting business of threading into Palma's enormous harbor and a warm welcome at the Real Club Náutico de Palma, where Anatol came aboard as reinforcement for the run back to the mainland.
 
 The last stretch turned into the most demanding sailing of the return leg. Bad weather forecast for the jump to Ibiza pushed the crew to wait it out at anchor in a forked, cave-pocked bay near Portals Vells, and when the window opened it opened into a long night crossing — past Cala Portinatx and on to Sant Antoni de Portmany — during which a weakening wind briefly had the crew seriously discussing turning back for Port d'Andratx to wait for better conditions, before deciding to press on for Ibiza after all. The arrival, in the dark, meant picking a careful path through a field of unlit mooring buoys before finally reaching the excellent welcome at Marina Es Nàutic, courtesy of a marinero named Leo.
+
+![Watercolor-style map of the route from Palma de Mallorca to Sant Carles de la Ràpita: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/overview-palma-de-mallorca-to-sant-carles-de-la-rapita.png){: width="320" style="display:block; margin-left:auto; margin-right:auto"}
 
 ## The Columbretes
 
