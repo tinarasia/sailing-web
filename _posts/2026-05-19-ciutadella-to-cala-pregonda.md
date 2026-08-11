@@ -18,7 +18,7 @@ permalink: /2026/05/19/ciutadella-to-cala-pregonda/
 - Miles under Sail: 9.0 nm
 - Crew: Tobi, Anna, Jo, Eli, Björn
 
-Slipped the lines at Ciutadella and pointed the bow toward Cala Pregonda, a modest half-day's sail covering 20 nautical miles at an average of 2.9 knots. Wind 6–8 kn from the SSW, gusting to 19 kn. Cala Pregonda turned out to be an absolutely stunning anchorage — beautiful beaches, turquoise water, and a handful of tiny islands with spectacular geology and natural salines that made the place look a bit like the moon.
+Slipped the lines at Ciutadella and pointed the bow toward Cala Pregonda, a modest half-day's sail covering 20 nautical miles at an average of 2.9 knots. Wind 6–8 kn from the SSW, gusting to 19 kn. Cala Pregonda turned out to be an absolutely stunning anchorage: beautiful beaches, turquoise water, and a handful of tiny islands with spectacular geology and natural salines that made the place look a bit like the moon.
 
 ![Watercolor-style map of the route from Ciutadella to Cala Pregonda: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip01-ciutadella-to-cala-pregonda.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 

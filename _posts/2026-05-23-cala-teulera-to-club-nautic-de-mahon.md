@@ -18,7 +18,7 @@ permalink: /2026/05/23/cala-teulera-to-club-nautic-de-mahon/
 - Miles under Sail: 1.0 nm
 - Crew: Tobi, Anna, Jo, Eli, Björn
 
-Weighed anchor at Cala Teulera, bound for Club Marítimo de Mahón — a short hop covering 2 nautical miles at an average of 2.7 knots. Wind 2 kn from the NE, gusting to 9 kn. This was really just the move from the anchorage into the harbor proper, where we tied up in a guest berth at the club.
+Weighed anchor at Cala Teulera, bound for Club Marítimo de Mahón: a short hop covering 2 nautical miles at an average of 2.7 knots. Wind 2 kn from the NE, gusting to 9 kn. This was really just the move from the anchorage into the harbor proper, where we tied up in a guest berth at the club.
 
 ![Watercolor-style map of the route from Cala Teulera to Club Marítimo de Mahón: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip05-cala-teulera-to-club-nautic-de-mahon.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 

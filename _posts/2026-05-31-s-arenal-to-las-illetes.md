@@ -18,6 +18,6 @@ permalink: /2026/05/31/s-arenal-to-las-illetes/
 - Miles under Sail: 7.1 nm
 - Crew: Tobi
 
-Departed S'Arenal for Ses Illetes, a modest half-day's sail covering 10 nautical miles at 2.1 knots average. Wind 3–8 kn from the SSW, gusting to 11 kn. With a short stopover at the breakwater of Sa Ràpita to meet up with Anja and Denny — met earlier in the "other" La Ràpita, on the mainland — headed for an anchorage west of Palma to spend the night, planning to head into the Real Club Náutico de Palma marina the next day.
+Departed S'Arenal for Ses Illetes, a modest half-day's sail covering 10 nautical miles at 2.1 knots average. Wind 3–8 kn from the SSW, gusting to 11 kn. With a short stopover at the breakwater of Sa Ràpita to meet up with Anja and Denny (met earlier in the "other" La Ràpita, on the mainland), headed for an anchorage west of Palma to spend the night, planning to head into the Real Club Náutico de Palma marina the next day.
 
 ![Watercolor-style map of the route from S'Arenal to Ses Illetes: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip11-s-arenal-to-las-illetes.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

@@ -18,7 +18,7 @@ permalink: /2026/05/10/port-de-pollenca-to-bonaire-mallorca/
 - Miles under Sail: 1.8 nm
 - Crew: Tobi, Anna, Jo, Eli
 
-Left Port de Pollença and made for Bonaire (Mallorca), a short hop covering 3 nautical miles at an average of 2.9 knots. Wind 10 kn from the W, gusting to 24 kn. Seas up to 0.6m. A very speedy leg, sails set on a beam reach the whole way. Bonaire itself, on the other hand, may be the most boring place imaginable — we couldn't even find a single open shop, so we left again.
+Left Port de Pollença and made for Bonaire (Mallorca), a short hop covering 3 nautical miles at an average of 2.9 knots. Wind 10 kn from the W, gusting to 24 kn. Seas up to 0.6m. A very speedy leg, sails set on a beam reach the whole way. Bonaire itself, on the other hand, may be the most boring place imaginable: we couldn't even find a single open shop, so we left again.
 
 ![Watercolor-style map of the route from Port de Pollença to Bonaire (Mallorca): a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip09-port-de-pollenca-to-bonaire-mallorca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 

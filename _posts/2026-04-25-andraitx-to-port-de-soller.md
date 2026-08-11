@@ -18,7 +18,7 @@ permalink: /2026/04/25/andratx-to-port-de-soller/
 - Miles under Sail: 8.4 nm
 - Crew: Tobi, Bernhard, Martin
 
-Andratx to Port de Sóller: a full day underway, 26 nautical miles at an average of 2.9 knots. Wind 3–8 kn from the NNW, gusting to 11 kn. Had to motor most of the way — the wind never really showed up. Got some very nice aerial shots of the boat with the DJI Neo drone along the way.
+Andratx to Port de Sóller: a full day underway, 26 nautical miles at an average of 2.9 knots. Wind 3–8 kn from the NNW, gusting to 11 kn. Had to motor most of the way: the wind never really showed up. Got some very nice aerial shots of the boat with the DJI Neo drone along the way.
 
 ![Watercolor-style map of the route from Andratx to Port de Sóller: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip02-andratx-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 

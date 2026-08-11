@@ -18,6 +18,6 @@ permalink: /2026/05/01/cala-de-sa-calobra-to-port-de-soller/
 - Miles under Sail: 7.0 nm
 - Crew: Tobi, Anna, Jo, Eli, Jofijaan
 
-Underway from Cala de Sa Calobra toward Port de Sóller, a short hop — 8 nautical miles at an average of 3.4 knots. Wind 7–8 kn from the ENE, gusting to 24 kn. Seas up to 0.7m. Unfavorable weather ahead sent us back into Port de Sóller instead of continuing east. The kids loved the ice cream shops and the little train that runs from here up to the town of Sóller. Jofijaan left the boat here and flew home.
+Underway from Cala de Sa Calobra toward Port de Sóller, a short hop: 8 nautical miles at an average of 3.4 knots. Wind 7–8 kn from the ENE, gusting to 24 kn. Seas up to 0.7m. Unfavorable weather ahead sent us back into Port de Sóller instead of continuing east. The kids loved the ice cream shops and the little train that runs from here up to the town of Sóller. Jofijaan left the boat here and flew home.
 
 ![Watercolor-style map of the route from Cala de Sa Calobra to Port de Sóller: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip05-cala-de-sa-calobra-to-port-de-soller.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

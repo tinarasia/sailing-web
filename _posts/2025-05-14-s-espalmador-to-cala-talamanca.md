@@ -16,6 +16,6 @@ permalink: /2025/05/14/s-espalmador-to-cala-talamanca/
 - Average speed: 2.2 kn
 - Crew: Tobi, Anna, Jo, Eli
 
-S'Espalmador to Cala Talamanca: a modest half-day's sail, 12 nautical miles at an average of 2.2 knots. Wind 5–8 kn from the E, gusting to 20 kn. Picking a path through the sandbanks between Ibiza and Formentera took some care, and Cala Talamanca itself turned out to be horribly rolly. Siggi and Kati weren't so lucky either — their outboard was stolen right off the stern pushpit.
+S'Espalmador to Cala Talamanca: a modest half-day's sail, 12 nautical miles at an average of 2.2 knots. Wind 5–8 kn from the E, gusting to 20 kn. Picking a path through the sandbanks between Ibiza and Formentera took some care, and Cala Talamanca itself turned out to be horribly rolly. Siggi and Kati weren't so lucky either: their outboard was stolen right off the stern pushpit.
 
 ![Watercolor-style map of the route from S'Espalmador to Cala Talamanca: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip13-s-espalmador-to-cala-talamanca.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}

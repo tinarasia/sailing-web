@@ -18,3 +18,13 @@ don't need to check manually before running it. But if you're editing
 `_posts/` some other way (a manual find-and-replace, a different script,
 etc.), that manifest won't protect you — check with the user first, or at
 least diff against git history, before bulk-touching files in there.
+
+## Style: no em dashes in public content
+
+Never use em dashes ("—") in any blog post or other material that's
+going to be published/made public. Write around them instead (a period,
+comma, colon, semicolon, or parentheses, whichever reads best in
+context) rather than reaching for "word — word" constructions. This
+applies to `_posts/` and any other public-facing deliverable in this or
+sibling repos (e.g. the `laserbrain` competition documents), not to
+internal notes like this file.

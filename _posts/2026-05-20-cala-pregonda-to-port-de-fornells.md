@@ -18,7 +18,7 @@ permalink: /2026/05/20/cala-pregonda-to-port-de-fornells/
 - Miles under Sail: 7.3 nm
 - Crew: Tobi, Anna, Jo, Eli, Björn
 
-Cast off from Cala Pregonda bound for Port de Fornells — a short hop, 8 nautical miles at an average of 2.6 knots. Wind 3–5 kn from the ESE, gusting to 14 kn. The communal harbor in Fornells was very clean, but the whole town gave off the impression of having been built solely for tourism.
+Cast off from Cala Pregonda bound for Port de Fornells: a short hop, 8 nautical miles at an average of 2.6 knots. Wind 3–5 kn from the ESE, gusting to 14 kn. The communal harbor in Fornells was very clean, but the whole town gave off the impression of having been built solely for tourism.
 
 ![Watercolor-style map of the route from Cala Pregonda to Port de Fornells: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip02-cala-pregonda-to-port-de-fornells.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 

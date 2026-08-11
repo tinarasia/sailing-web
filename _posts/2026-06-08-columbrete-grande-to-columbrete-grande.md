@@ -18,7 +18,7 @@ permalink: /2026/06/08/columbrete-grande-to-columbrete-grande/
 - Miles under Sail: 0.4 nm
 - Crew: Tobi, Anatol
 
-Departed Illa Grossa for Illa Grossa, a short hop covering 1 nautical miles at 2.2 knots average. Wind 3 kn from the E, gusting to 5 kn. Seas up to 0.5m. Current up to 0.9 kn setting WSW. There was a thunderstorm over the mainland that day, well out of reach of the anchorage. The weather had calmed down a lot, so we moved into the crater bay itself and called the park rangers on VHF to ask for a guided tour — fascinating stories about the history, geography, and biology of the islands. The crater turned out to be inhabited after all: two or three rangers and biologists live there, doubling as the local tour guides.
+Departed Illa Grossa for Illa Grossa, a short hop covering 1 nautical miles at 2.2 knots average. Wind 3 kn from the E, gusting to 5 kn. Seas up to 0.5m. Current up to 0.9 kn setting WSW. There was a thunderstorm over the mainland that day, well out of reach of the anchorage. The weather had calmed down a lot, so we moved into the crater bay itself and called the park rangers on VHF to ask for a guided tour: fascinating stories about the history, geography, and biology of the islands. The crater turned out to be inhabited after all: two or three rangers and biologists live there, doubling as the local tour guides.
 
 ![Watercolor-style map of the route from Illa Grossa to Illa Grossa: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip18-columbrete-grande-to-columbrete-grande.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
 

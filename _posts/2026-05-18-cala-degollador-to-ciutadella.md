@@ -18,6 +18,6 @@ permalink: /2026/05/18/cala-degollador-to-ciutadella/
 - Miles under Sail: 0.0 nm
 - Crew: Tobi, Anna, Jo, Eli, Björn
 
-Cala Degollador to Ciutadella: a short hop, 1 nautical miles at an average of 1.9 knots. Wind 4 kn from the SW, gusting to 11 kn. Logbook only, for now — the real story of the passage itself is still waiting to be filled in.
+Cala Degollador to Ciutadella: a short hop, 1 nautical miles at an average of 1.9 knots. Wind 4 kn from the SW, gusting to 11 kn. Logbook only, for now: the real story of the passage itself is still waiting to be filled in.
 
 ![Watercolor-style map of the route from Cala Degollador to Ciutadella: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip14-cala-degollador-to-ciutadella.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
