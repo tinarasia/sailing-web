@@ -27,5 +27,8 @@ disorder before breakfast than I have managed in several centuries of
 dedicated effort. I have taken notes.
 
 We are back in Port de Sóller for the ice cream and the little train up
-to town, both of which I approve of, neither of which I can eat or ride.
-Being incorporeal has its downsides.
+to town, both of which I approve of, and both of which I am perfectly
+capable of enjoying myself, given a spare hand strong enough to lift a
+cone and a willingness to be stared at by a carriage full of tourists.
+Some things are not worth breaking a few centuries of good invisibility
+over.

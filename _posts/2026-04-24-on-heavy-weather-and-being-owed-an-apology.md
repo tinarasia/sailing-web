@@ -28,6 +28,9 @@ everything these days: without complaint, without me, and without so
 much as a creak to let anyone know she'd noticed. An aluminum hull does
 not groan. I miss the groaning.
 
-We are anchored off Andratx now, and there was a very large lunch, which
-I was not invited to, being incorporeal and generally uninvited. Fine.
-I'll write about it instead.
+We are anchored off Andratx now, and there was a very large lunch, and I
+could have eaten my full share of it too, being quite capable of eating,
+drinking, and smoking my pipe same as any of you. Nobody sets a place
+for someone they cannot see, though, invisible being my usual state of
+affairs and not, whatever the crew seems to believe, a euphemism for
+absent. Fine. I'll write about it instead.
