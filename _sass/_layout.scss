@@ -309,11 +309,13 @@
     color: rgba($parchment, 0.75);
 
     &::after {
-        @include retina-background-image($img-dude);
+        background-image: url($img-skipper);
+        background-size: 100%;
+        background-repeat: no-repeat;
         display: block;
         content: "";
-        width: 65px;
-        height: 158px;
+        width: 90px;
+        height: 118px;
         margin: 0 auto 20px;
         filter: brightness(0) invert(1);
         opacity: 0.85;
