@@ -23,13 +23,13 @@ Permanent crew:
  <img src="/img/flags/es.png">
  ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
 </td></tr>
-<tr><td><a href="/crew/j">J</a></td><td>
+<tr><td><a href="/crew/jo">Jo</a></td><td>
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/berlin-22x14.png"> <img src="/img/flags/de/brandenburg-22x14.png"> )
  <img src="/img/flags/es.png">
  ( <img src="/img/flags/es/andalucia-22x14.png"> <img src="/img/flags/es/valencia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )
 </td></tr>
-<tr><td><a href="/crew/e">E</a></td><td>
+<tr><td><a href="/crew/eli">Eli</a></td><td>
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/berlin-22x14.png"> )
  <img src="/img/flags/es.png">
