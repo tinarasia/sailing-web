@@ -27,12 +27,6 @@ fully electric boat with a moody but largely self-sufficient tin
 helmsman lashed to the tiller aft is, frankly, an underemployed
 Klabautermann's worst nightmare.
 
-Anna and Tobi have another name for that tin helmsman: Señor Seppuku.
-Under just the right conditions, it's been known to work its own
-power plug loose and unplug itself mid-passage, a small act of
-dramatic self-termination the crew has long since stopped treating as
-a malfunction and started treating as a resignation.
-
 So he has found a new trade. In his own words:
 
 > "Back in my day, a ship groaned when she needed you, and a bad splice
