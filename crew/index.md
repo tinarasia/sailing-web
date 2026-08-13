@@ -8,7 +8,7 @@ permalink: /crew/
 Permanent crew:
 
 <table class="crew-table">
-<tr><td><a href="/crew/the_skipper">The Skipper</a></td><td>...</td></tr>
+<tr><td><a href="/crew/the_skipper">The Skipper</a></td><td> <img src="/img/flags/black.png"></td></tr>
 <tr><td><a href="/crew/tobi">Tobi</a></td><td>
  <img src="/img/flags/de.png">
  ( <img src="/img/flags/de/schleswig-holstein-22x14.png"> <img src="/img/flags/de/hamburg-22x14.png"> <img src="/img/flags/de/berlin-22x14.png"> <img src="/img/flags/de/brandenburg-22x14.png"> )
