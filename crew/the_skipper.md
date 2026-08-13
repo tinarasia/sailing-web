@@ -2,6 +2,8 @@
 title: The Skipper
 layout: page
 ---
+<img src="/img/the_skipper.svg" alt="A small illustration of the Klabautermann, a stout bearded ship's spirit in a sou'wester hat, smoking a pipe and holding a lantern" width="160" style="display:block; margin-left:auto; margin-right:auto">
+
 ... is a mysterious creature, somewhere between agent of chaos incarnate and
 demigod of the wind and sea.
 

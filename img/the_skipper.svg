@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 210" width="160" height="210" role="img" aria-label="A small illustration of the Klabautermann, a stout bearded ship's spirit in a sou'wester hat, smoking a pipe and holding a lantern.">
+  <g fill="#1b2a38">
+    <!-- lantern -->
+    <path d="M28 118 Q18 118 18 128 L18 140 Q18 150 28 150 L34 150 Q44 150 44 140 L44 128 Q44 118 34 118 Z" fill="none" stroke="#1b2a38" stroke-width="3"/>
+    <line x1="31" y1="110" x2="31" y2="118" stroke="#1b2a38" stroke-width="3"/>
+    <circle cx="31" cy="134" r="5" fill="#ab8a4c"/>
+
+    <!-- arm holding lantern -->
+    <path d="M55 128 Q40 122 34 118" fill="none" stroke="#1b2a38" stroke-width="10" stroke-linecap="round"/>
+
+    <!-- legs and boots -->
+    <rect x="58" y="168" width="16" height="26" rx="4"/>
+    <rect x="88" y="168" width="16" height="26" rx="4"/>
+    <path d="M52 190 h30 v8 q0 6 -6 6 h-24 q-6 0 -6 -6 z"/>
+    <path d="M82 190 h30 v8 q0 6 -6 6 h-24 q-6 0 -6 -6 z"/>
+
+    <!-- body -->
+    <ellipse cx="80" cy="140" rx="40" ry="46"/>
+
+    <!-- other arm, resting -->
+    <path d="M110 120 Q126 130 122 152" fill="none" stroke="#1b2a38" stroke-width="10" stroke-linecap="round"/>
+
+    <!-- beard -->
+    <path d="M58 88 Q80 132 102 88 Q92 108 80 108 Q68 108 58 88 Z"/>
+
+    <!-- head -->
+    <circle cx="80" cy="72" r="24"/>
+
+    <!-- pipe -->
+    <path d="M100 80 Q116 84 122 80" fill="none" stroke="#1b2a38" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="123" cy="76" r="6"/>
+    <path d="M123 70 q2 -8 -2 -12" fill="none" stroke="#1b2a38" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+
+    <!-- sou'wester hat -->
+    <ellipse cx="76" cy="52" rx="34" ry="9"/>
+    <path d="M48 50 Q48 20 80 18 Q108 20 108 46 Q108 54 100 54 L56 54 Q48 54 48 50 Z"/>
+  </g>
+</svg>
