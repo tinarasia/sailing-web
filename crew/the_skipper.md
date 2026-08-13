@@ -24,8 +24,8 @@ no rigging that needs him hauling on it at 3 a.m., and now that she carries
 those weird black planks bolted along her oversized stern pushpit soaking
 up the sun, nobody even needs him to lean on the wind to fill the sails. A
 fully electric boat with a moody but largely self-sufficient tin
-helmsman at the wheel is, frankly, an underemployed Klabautermann's worst
-nightmare.
+helmsman lashed to the tiller aft is, frankly, an underemployed
+Klabautermann's worst nightmare.
 
 So he has found a new trade. In his own words:
 
@@ -33,7 +33,7 @@ So he has found a new trade. In his own words:
 > would creak all the way up from the bilge to let you know. This one
 > just floats there: sun soaking into them weird black planks on the
 > oversized stern pushpit, the whisper-screw spinning below without so
-> much as a peep, the tin helmsman up front bickering with itself
+> much as a peep, the tin helmsman back on the tiller bickering with itself
 > instead of with me. A spirit gets bored. So these days I scribble in
 > the margins of the ship's blogbook instead, mostly about the crew,
 > since somebody has to keep this lot honest, and it's plainly not
