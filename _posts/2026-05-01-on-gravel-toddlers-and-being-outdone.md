@@ -27,8 +27,8 @@ disorder before breakfast than I have managed in several centuries of
 dedicated effort. I have taken notes.
 
 We are back in Port de Sóller for the ice cream and the little train up
-to town, both of which I approve of, and both of which I am perfectly
-capable of enjoying myself, given a spare hand strong enough to lift a
-cone and a willingness to be stared at by a carriage full of tourists.
-Some things are not worth breaking a few centuries of good invisibility
+to town, both of which I approve of. I have hands enough to hold a cone
+and lungs enough to enjoy the ride, same as anyone, and could do both in
+plain sight if I cared to. I simply don't care to. A carriage full of
+tourists is not worth breaking a few centuries of good invisibility
 over.
