@@ -26,9 +26,13 @@ worst nightmare.
 
 So he has found a new trade. In his own words:
 
-> "I write snarky blog posts about sailboat cruising in general, and
-> Tinarasia's crew in particular, because on modern boats I don't have
-> nearly as much to do as I did back in the golden age of sail."
+> "Back in my day, a ship groaned when she needed you, and a bad splice
+> would creak all the way up from the bilge to let you know. This one
+> just floats there: sun on the panels, motor humming along without a
+> single complaint, autopilot arguing with itself instead of with me.
+> A spirit gets bored. So these days I keep myself busy with gossip,
+> mostly about the crew, since somebody has to keep this lot honest,
+> and it's plainly not going to be the hull."
 
 If the trip reports on this site read a little sharper than the average
 cruising blog, if the crew page has opinions nobody asked for, that's him:
