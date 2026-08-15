@@ -16,13 +16,17 @@ see paperwork first. Progress, apparently, means a form for everything,
 even the wind.
 
 It came right eventually, as these things do, and the reward for
-sitting through it was better than the aggravation deserved: Stephan,
-tied up two boats down, turned out to sail out of the very same club
-back in Berlin as Tobi and Anna. I do not believe in coincidence,
-professionally speaking. The sea is smaller than it looks, and sailors
-on similar routes at similar times of year keep bumping into each other
-whether the paperwork wants to admit it or not.
+sitting through it was waiting exactly where it was supposed to be:
+Stephan, tied up two boats down, out of the very same sailing club back
+in Berlin as Tobi and Anna, and expecting us. They'd arranged the whole
+meeting days in advance, over whatever device it is the crew keeps
+whispering into at all hours. No current, no timing, no sea doing
+anything clever. Just an appointment kept.
 
+I'll admit that takes a little of the romance out of it for a spirit
+who likes to imagine boats still find each other the old way now and
+then, by nothing but luck and a shared stretch of coastline. Apparently
+these days you simply send word ahead. Efficient. A bit bloodless.
 Still, a familiar flag on a familiar pontoon in a foreign harbor is
-worth something, even to a spirit who has met a great many flags in his
-time. I'll allow it made up for the bank statement.
+worth something, arranged or not, even to a spirit who remembers when
+it wasn't.
