@@ -11,7 +11,7 @@ The autopilot quit within hours of leaving Almerímar, which meant a
 whole overnight leg to Los Escullos steered by hand, in the dark, by a
 crew who had rather hoped to be doing other things with their evening. I
 did not have a name for this sort of behavior yet. I have one now. At
-the time I simply stood by the binnacle, unseen as usual, and watched a
+the time I simply stood over the tiller, unseen as usual, and watched a
 perfectly good electronic helmsman give up the moment the work started,
 which strikes me as a fairly reliable definition of cowardice in any
 century.

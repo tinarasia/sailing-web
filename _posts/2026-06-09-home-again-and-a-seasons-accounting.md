@@ -11,7 +11,8 @@ Seven weeks, and the last of it was the strangest stretch: a crater bay
 out at the Columbretes that turned into a proper witches' cauldron on
 arrival, gusts pouring straight in with no safe way through, so we sat a
 night on a mooring outside the rim like sensible people before going in
-to meet the two park rangers who apparently live out there full time. I
+to meet the two or three park rangers who apparently live out there
+full time. I
 have met stranger crews. I have not met many stranger addresses.
 
 Now we are back where we started, less than a mile from the yard that

@@ -23,7 +23,7 @@ certain professional satisfaction in that, if I'm honest. The sea does
 not read forecasts either.
 
 Two of the three aboard learned some humility about it. The boat, to her
-credit, did not. She took the knockdown weather the way she takes
+credit, did not. She took the rough weather the way she takes
 everything these days: without complaint, without me, and without so
 much as a creak to let anyone know she'd noticed. An aluminum hull does
 not groan. I miss the groaning.

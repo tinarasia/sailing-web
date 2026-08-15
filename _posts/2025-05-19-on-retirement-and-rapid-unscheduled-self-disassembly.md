@@ -16,10 +16,11 @@ a scene.
 
 There was no replacement waiting, of course. That is not how any of
 this works, whatever the crew likes to pretend after the fact. A dinghy
-falls apart, and only then does anyone start looking for a new one, and
-in the meantime a boat like this still needs some way of getting people
-and groceries ashore, so the search happened in something of a hurry.
-A new, used dinghy came aboard within a few days.
+falls apart, and only then does anyone start looking for a new one. A
+guest berth in Palma meant nobody needed to swim for it in the
+meantime, at least, but the next anchorages down the coast would not
+be so accommodating, so the search still happened in something of a
+hurry. A new, used dinghy came aboard within a few days.
 
 The old one did not go wherever old dinghies go. Nobody could quite
 bring themselves to leave it on a foreign dock, so it got wrapped into
