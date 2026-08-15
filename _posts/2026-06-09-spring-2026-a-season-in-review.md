@@ -73,7 +73,7 @@ The solo stretch down through Cala Mondragó, Platja des Carbó, and around towa
 
 ![View out through the mouth of a dark sea cave toward a sailboat anchored in a sunlit bay lined with pine trees](/img/photos/leg21-cala-mondrago.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
-The last stretch turned into the most demanding sailing of the return leg. Bad weather forecast for the jump to Ibiza pushed the crew to wait it out at anchor in a forked, cave-pocked bay near Portals Vells, and when the window opened it opened into a long night crossing, past Cala Portinatx and on to Sant Antoni de Portmany, during which a weakening wind briefly had the crew seriously discussing turning back for Port d'Andratx to wait for better conditions, before deciding to press on for Ibiza after all.
+The last stretch turned into the most demanding sailing of the return leg. Bad weather forecast for the jump to Ibiza pushed the crew to wait it out at anchor in a forked, cave-pocked bay near Portals Vells, and when the window opened it opened into a long night crossing toward Cala Portinatx, during which a weakening wind briefly had the crew seriously discussing turning back for Port d'Andratx to wait for better conditions, before deciding to press on for Ibiza after all. The arrival, in the dark, meant picking a careful path through a field of unlit mooring buoys.
 
 ![Several boats anchored in a small bay backed by sandy cliffs and white villas among pine trees](/img/photos/leg26-portals-vells-ankunft.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -81,7 +81,7 @@ The last stretch turned into the most demanding sailing of the return leg. Bad w
 
 ![View between two pine trees down to a turquoise bay with anchored boats and a sandy beach crowded with sunbathers](/img/photos/leg27-cala-portinatx-aufenthalt.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
-The arrival, in the dark, meant picking a careful path through a field of unlit mooring buoys before finally reaching the excellent welcome at Marina Es Nàutic, courtesy of a marinero named Leo. Melusina One turned up again shortly after, pulling into a berth on the very same pontoon.
+A calmer daytime hop the next day covered the short remaining distance to Sant Antoni de Portmany, where the crew found an excellent welcome at Marina Es Nàutic, courtesy of a marinero named Leo. Melusina One turned up again shortly after, pulling into a berth on the very same pontoon.
 
 ![A harbor breakwater with a pile of rocks in the foreground and a dense skyline of white apartment buildings behind, under a pastel evening sky](/img/photos/leg28-anflug-sant-antoni.jpg){: width="480" style="display:block; margin-left:auto; margin-right:auto"}
 
