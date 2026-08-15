@@ -11,17 +11,15 @@ I have watched a great many things go wrong on a great many boats, and
 I generally consider myself hard to surprise. Eli surprised me today.
 Not yet one year old, not walking properly on land as far as I've
 seen, and he hauled himself up the companionway steps today, one small
-determined hand over the other, entirely on his own. Jo was right
-there belowdecks with him when he set off, playing at something else
-and paying his little brother no attention at all, which makes the
-whole business more impressive rather than less. Eli did not need
-Jo climbing beside him. He had watched him do it enough times before
-that he already knew the shape of the thing.
+determined hand over the other, entirely on his own. Jo went up first,
+found Tobi at the tiller the way he always does, and came back down
+again, and Eli, who had watched every step of it from the cabin sole,
+decided his turn had come.
 
 Nobody taught him that climb, not directly. I was belowdecks and saw
 the whole thing: no hesitation, no crying for help, just a baby who
-had clearly filed away every one of his brother's ascents and decided
-today was the day to try the technique himself. He got to the top,
+had clearly filed away his brother's ascent a minute earlier and
+concluded the technique would work for him too. He got to the top,
 found Tobi at the tiller, and grinned like he'd just crossed an ocean.
 In a sense he had.
 
