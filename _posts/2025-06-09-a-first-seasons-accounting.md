@@ -24,7 +24,8 @@ much this time.
 
 A hand-steered night to Los Escullos. Three nights trapped in a cove
 with two mooring balls. A stolen outboard I couldn't prevent, a dinghy
-that fell apart out of spite, and skies over Cabrera clear enough to
+that fell apart out of spite and never actually left us, lashed to the
+stern the rest of the way home, and skies over Cabrera clear enough to
 make the whole business worth it. Now she comes out of the water for a
 long refit, and I am told there is talk of more solar, a proper electric
 galley, and less use for a generator that has, by my count, earned its
