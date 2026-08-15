@@ -14,7 +14,7 @@ permalink: /2025/06/05/cala-castell-to-port-de-soller/
 - Duration: 10.2 h
 - Distance: 20.5 nm
 - Average speed: 2.0 kn
-- Crew: Tobi, Riot
+- Crew: Tobi, riot
 
 Slipped the lines at Cala Castell and pointed the bow toward Port de Sóller, a full day underway covering 20 nautical miles at an average of 2.0 knots. Wind 1–3 kn from the NNE, gusting to 12 kn. Current up to 0.5 kn setting ENE. Port de Sóller is the only protected, safe harbor on Mallorca's north coast, and our last stop before heading back over to the mainland.
 

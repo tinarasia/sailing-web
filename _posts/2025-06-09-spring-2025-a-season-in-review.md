@@ -31,7 +31,7 @@ Porto Cristo brought the Cuevas del Drach (an underground cave system strung wit
 
 ## The last stretch, singlehanded-ish, back to the mainland
 
-Port de Pollença also marked a turning point in the crew roster: Anna, Jo, and Eli flew home, and Riot came aboard to sail on with Tobi for the final stretch. The two of them took the boat back along Mallorca's north coast: Cala Castell for an overnight anchorage, then Port de Sóller, the only truly protected harbor on that whole coastline and the natural jumping-off point for the crossing home. That crossing, an overnight passage of roughly forty hours and 117 nautical miles, brought some genuinely significant waves for parts of the way but delivered the boat safely to an anchorage off Punta de la Banya, and from there into Sant Carles Marina this morning. A short, final hop this afternoon moved Tinarasia the last mile and a half into her winter berth.
+Port de Pollença also marked a turning point in the crew roster: Anna, Jo, and Eli flew home, and riot came aboard to sail on with Tobi for the final stretch. The two of them took the boat back along Mallorca's north coast: Cala Castell for an overnight anchorage, then Port de Sóller, the only truly protected harbor on that whole coastline and the natural jumping-off point for the crossing home. That crossing, an overnight passage of roughly forty hours and 117 nautical miles, brought some genuinely significant waves for parts of the way but delivered the boat safely to an anchorage off Punta de la Banya, and from there into Sant Carles Marina this morning. A short, final hop this afternoon moved Tinarasia the last mile and a half into her winter berth.
 
 ## What's next
 

@@ -48,5 +48,5 @@ Past temporary members of the crew:
 <tr><td>Martin</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/catalonia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )</td></tr>
 <tr><td>Bernhard</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/catalonia-22x14.png"> <img src="/img/flags/es/balearic-islands-22x14.png"> )</td></tr>
 <tr><td>Anatol</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )</td></tr>
-<tr><td>Riot</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )</td></tr>
+<tr><td>riot</td><td> <img src="/img/flags/es.png"> ( <img src="/img/flags/es/balearic-islands-22x14.png"> <img src="/img/flags/es/catalonia-22x14.png"> )</td></tr>
 </table>

@@ -15,7 +15,7 @@ learned in my first season aboard a boat that groans considerably less
 than the ones I'm used to.
 
 Anna, Jo, and Eli flew home from Port de Pollença before the last
-stretch, and Riot came aboard in their place for the run back along
+stretch, and riot came aboard in their place for the run back along
 Mallorca's north coast, which is the oldest rhythm there is on a boat
 like this one: crew comes, crew goes, and somebody has to be there for
 all of it regardless of who's aboard on any given week. That has always

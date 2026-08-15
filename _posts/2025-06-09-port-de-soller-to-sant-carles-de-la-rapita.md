@@ -14,7 +14,7 @@ permalink: /2025/06/09/port-de-soller-to-sant-carles-de-la-rapita/
 - Duration: 40.4 h
 - Distance: 117.2 nm
 - Average speed: 2.9 kn
-- Crew: Tobi, Riot
+- Crew: Tobi, riot
 
 Cast off from Port de Sóller bound for Sant Carles de la Ràpita: an overnight passage of roughly 1.7 days, 117 nautical miles at an average of 2.9 knots. Wind 2–15 kn from the E, gusting to 21 kn. It backed from SSE to E. Seas up to 1.3m. Current up to 0.5 kn setting WSW. Quite significant waves for parts of the crossing, but all in all a pleasurable non-stop passage back to the mainland, ending at anchor overnight off Punta de la Banya before moving into the marina the next morning. In a few days Tinarasia comes out of the water for at least half a year. There's no shortage of items on the refit to-do list.
 
