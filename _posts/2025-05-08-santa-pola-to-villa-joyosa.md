@@ -16,6 +16,6 @@ permalink: /2025/05/08/santa-pola-to-villa-joyosa/
 - Average speed: 3.9 kn
 - Crew: Tobi, Anna, Jo, Eli
 
-Cast off from Santa Pola bound for La Vila Joiosa: a modest half-day's sail, 27 nautical miles at an average of 3.9 knots. Wind 3–9 kn from the SE, gusting to 22 kn. Check-in at Club Nàutic La Vila Joiosa was a bizarrely bureaucratic affair, with the staff insisting on a bank statement proving insurance premiums had actually been paid. Met up with Stephan, a fellow member of the SC Gothia sailing club back in Berlin, arranged in advance to be on the same pontoon.
+Cast off from Santa Pola bound for La Vila Joiosa: a modest half-day's sail, 27 nautical miles at an average of 3.9 knots. Wind 3–9 kn from the SE, gusting to 22 kn. Check-in at Club Nàutic La Vila Joiosa was a bizarrely bureaucratic affair, with the staff insisting on a bank statement proving insurance premiums had actually been paid. Met up with Stephan, a fellow member of the SC Gothia sailing club back in Berlin, who has a vacation home in the mountains nearby and drove down to see us, arranged in advance.
 
 ![Watercolor-style map of the route from Santa Pola to La Vila Joiosa: a navy track line with a gold circle marking the start and a dark square marking the end](/img/tracks/trip10-santa-pola-to-villa-joyosa.png){: width="256" style="display:block; margin-left:auto; margin-right:auto"}
