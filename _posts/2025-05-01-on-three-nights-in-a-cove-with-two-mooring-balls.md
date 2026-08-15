@@ -19,9 +19,13 @@ kind outside.
 The generator got its first proper workout on the second day, which I
 watched with some interest, having spent centuries relying on nothing
 grander than wind and a favor owed. Tobi and Jo went ashore to explore a
-cave and hunt wildflowers, with Anna directing photography from the
-boat, and for a few hours the whole business of waiting out weather
-looked almost like a holiday rather than a delay.
+cave and a scattering of wildflowers, Jo wanting to pick a bunch for his
+mother until Tobi talked him out of it: leave them where they are, take
+a photograph instead, and Anna gets to see them just the same without a
+single flower having to die for it. Jo took the job seriously after
+that, marching Tobi from bloom to bloom and directing exactly which
+ones deserved a picture. For a few hours the whole business of waiting
+out weather looked almost like a holiday rather than a delay.
 
 On the morning we thought the wind had eased enough, we made a break for
 open water and lasted perhaps an hour before the sea outside made the
