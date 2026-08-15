@@ -7,7 +7,7 @@ location: "Sant Carles Marina"
 permalink: /2025/06/09/spring-2025-a-season-in-review/
 ---
 
-Seven weeks ago, S/V Tinarasia slipped her lines in Almerímar, on the Costa del Sol, with Tobi, Anna, and two small kids aboard (Jo not yet three, Eli barely walking) and pointed her bow east. Tonight she's back in her home berth at Sant Carles Marina, on the Ebro Delta, with a long refit list waiting and the crew roster having turned over twice along the way. In between: a hand-steered overnight passage, three nights sheltering from weather in a cove with exactly two mooring balls, an overnight crossing to the Balearics that ended by moonlight, a stolen outboard, a nature reserve with a checkered military history, and a fair amount of very good anchoring.
+Seven weeks ago, S/V Tinarasia slipped her lines in Almerímar, on the Costa del Sol, with Tobi, Anna, and two small kids aboard (Jo two years old, Eli not yet one) and pointed her bow east. Tonight she's back in her home berth at Sant Carles Marina, on the Ebro Delta, with a long refit list waiting and the crew roster having turned over twice along the way. In between: a hand-steered overnight passage, three nights sheltering from weather in a cove with exactly two mooring balls, an overnight crossing to the Balearics that ended by moonlight, a stolen outboard, a nature reserve with a checkered military history, and a fair amount of very good anchoring.
 
 ## A rough start off the Costa del Sol
 

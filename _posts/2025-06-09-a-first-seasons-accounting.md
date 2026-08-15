@@ -8,7 +8,7 @@ permalink: /2025/06/09/a-first-seasons-accounting/
 ---
 
 Seven weeks ago this crew slipped their lines in Almerímar with two
-small children aboard, Jo not yet three and Eli barely walking, and no
+small children aboard, Jo two years old and Eli not yet one, and no
 idea yet what this boat would ask of them. Tonight she is back in her home berth on the Ebro Delta,
 and I have had the whole final crossing to think about what I've
 learned in my first season aboard a boat that groans considerably less
